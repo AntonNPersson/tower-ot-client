@@ -1,8 +1,8 @@
 {
   "version": "0.0.1",
-  "releaseDate": "2025-30-07",
+  "releaseDate": "2025-07-30",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/test.client.zip",
   "changeLog": [
-    "Initial client release",
+    "Initial client release"
   ]
 }
