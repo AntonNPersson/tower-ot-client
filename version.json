@@ -1,8 +1,8 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "releaseDate": "2025-07-30",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Updated client sync with client, so new special skill is showing"
+    "Massive performance update"
   ]
 }
