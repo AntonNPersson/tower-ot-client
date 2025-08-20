@@ -1,7 +1,1 @@
-Updated dps meter to have different color for different vocations.
-Added logic for gold drop chance and dungeon token drop chance in stat menu.
-Added healing received as a special skill, and fixed so spell power doesnt affect healing.
-Added unique starting equipment for all vocations.
-Added personal loot system.
-Added outfit system granting specialskills.
-Added achievement system with client module and seasonal storage.
+Added complete card system with different rarities
