@@ -1,8 +1,9 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "releaseDate": "2025-07-30",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Massive performance update"
+    "Added rarity item support",
+    "Added 6 legendary items with 1% drop chance, these are powerful additions to your build"
   ]
 }
