@@ -1,2 +1,7 @@
-Added scrap system, where you can scrap unused items and buy random boxes to gain new equipement scaling with your current progression.
-Added Quick Settings where you can enable auto depositing/converting/scrapping of all currencies/items.
+Added quick bot
+Added card profiles
+Doubled base movement speed
+Increased monster density on floor 1 and 2
+Disabled cursed chest on floor 1 and 2
+Added resetting stat, it is free the first time then it costs -> 100 tower coins -> 200 tower coins -> 400 tower coins and so on.
+Removed collision on cursed chest
