@@ -1,7 +1,5 @@
-Added quick bot
-Added card profiles
-Doubled base movement speed
-Increased monster density on floor 1 and 2
-Disabled cursed chest on floor 1 and 2
-Added resetting stat, it is free the first time then it costs -> 100 tower coins -> 200 tower coins -> 400 tower coins and so on.
-Removed collision on cursed chest
+Added deathlist command
+Added bless command
+Preliminary update to UI
+Fixed the auto settings to not move items in the bag if using autoloot
+Cards now show rarity border
