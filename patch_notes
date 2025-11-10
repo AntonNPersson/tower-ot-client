@@ -1,5 +1,5 @@
-Added deathlist command
-Added bless command
-Preliminary update to UI
-Fixed the auto settings to not move items in the bag if using autoloot
-Cards now show rarity border
+Fixed shop amount not showing
+Added quick bot and promotion dungeon to the wiki
+Fixed beta not consuming gloomgilds
+Added aimbot for directional spells
+Quick settings now updates correctly based on server
