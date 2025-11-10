@@ -1,5 +1,6 @@
-Fixed shop amount not showing
-Added quick bot and promotion dungeon to the wiki
-Fixed beta not consuming gloomgilds
-Added aimbot for directional spells
-Quick settings now updates correctly based on server
+Scrap now stack to 250
+Random cards now stack
+Duplicate cards are now sent to depot first
+24 slot backpack added to shop
+Changed default font
+Changed color scheme of all texts, combat texts and names
