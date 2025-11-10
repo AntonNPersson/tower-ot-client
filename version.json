@@ -1,7 +1,7 @@
 {
   "version": "0.8.1",
   "releaseDate": "2025-11-02",
-  "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
+  "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/archive/refs/tags/client.zip",
   "changeLog": [
     "Added new Blood Harvest event, where you can gather blood to increase power permanently",
     "Added 30+ new cards with 5 legendaries, and added 30+ new legendary item effects",
