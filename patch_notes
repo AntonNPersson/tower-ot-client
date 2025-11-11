@@ -1,6 +1,17 @@
-Scrap now stack to 250
-Random cards now stack
-Duplicate cards are now sent to depot first
-24 slot backpack added to shop
 Changed default font
 Changed color scheme of all texts, combat texts and names
+Fixed rare box tooltip
+Fixed dune-sworn archer damage
+Fixed autoloot on floor 5
+Fixed quick bot to be maximized as default
+Added line of sight to autotargeting
+Added level requirement to all gear pieces
+Added commands to wiki
+Fixed mining issue
+Added teleporting outside of instanced places as default instead of temple
+Doubled the amount of depth pirates
+Changed swift stride trail to be 2 tiles but reduced damage
+Updated sprites and names for the 3 sets
+Added welcome explanation
+Updated dune-sworn god to have 3 safe areas instead of 2
+Fixed fog to be grayer and less intense
