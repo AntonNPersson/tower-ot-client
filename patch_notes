@@ -1,10 +1,36 @@
-Fixed Roshamuul close button
-Added Leaving party in combat
-Fixed enable/disabled shared xp in combat
-Fixed hotkeys
-Fixed outfit window opening wiki
-Map fixes
-Spelllist now shows exori surge at correct level
-Fixed Scrapping exploit with eq on floor.
-Fixed Language change crash
-Potentially fixed crash scenario.
+Damage stat to wands were halved, and is now reverted to normal
+All instanced monsters no longer spawn elite/legendary and so on
+Buffed spellscroll of prophecies to 32 defense
+Increased primal golem speed
+Primal Golems do not have resistances to earth damage
+Fixed Venomous Vine Lurker task
+Fixed common, rare and epic box description
+Buffed all boss damages on floor 3
+Increased base movement speed by 100
+Potentially fixed roshamuul
+Cursed chest should no longer spawn in PZ
+Cursed chest should now deposit gold directly to bank
+Added magiclevel scaling to all wands - 3% damage increase per level 
+Wands now scale with attack power
+Increase sailing currency stack cap to 250
+Jungle quest fixed
+Snow no longer slows you down
+Cursed chest monsters now have a purple outline
+Added more robust tile checking for essence spawn
+Added more robust tile checking for arcane step
+Reduced minimum targeting to 200ms
+Removed duplicate daily tasks
+Reverted chat and chat bubble colors/font
+!pz command added
+Added keywords to the wiki for all spells
+Changed promotion dungeon from level 100 to 150 in the wiki
+Added "add to rotation" and "add to heal/buff" to custom spells
+Removed charges from tonics
+Reduced cooldown on tonics by 50% and healing by 50%
+Autoscrap should not scrap upgraded items now
+Autoscrap should now work with personal loot system
+Added module window for skill potion with Use All button
+Changed ranged monsters from floor 2 - 3 to have 1 tile range
+Reduced boss protection from 2 minutes to 30 seconds
+Added 5% damage reduction to all melee vocations
+Added new custom spell unlockable on floor 1
