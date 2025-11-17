@@ -1,36 +1,31 @@
-Damage stat to wands were halved, and is now reverted to normal
-All instanced monsters no longer spawn elite/legendary and so on
-Buffed spellscroll of prophecies to 32 defense
-Increased primal golem speed
-Primal Golems do not have resistances to earth damage
-Fixed Venomous Vine Lurker task
-Fixed common, rare and epic box description
-Buffed all boss damages on floor 3
-Increased base movement speed by 100
-Potentially fixed roshamuul
-Cursed chest should no longer spawn in PZ
-Cursed chest should now deposit gold directly to bank
-Added magiclevel scaling to all wands - 3% damage increase per level 
-Wands now scale with attack power
-Increase sailing currency stack cap to 250
-Jungle quest fixed
-Snow no longer slows you down
-Cursed chest monsters now have a purple outline
-Added more robust tile checking for essence spawn
-Added more robust tile checking for arcane step
-Reduced minimum targeting to 200ms
-Removed duplicate daily tasks
-Reverted chat and chat bubble colors/font
-!pz command added
-Added keywords to the wiki for all spells
-Changed promotion dungeon from level 100 to 150 in the wiki
-Added "add to rotation" and "add to heal/buff" to custom spells
-Removed charges from tonics
-Reduced cooldown on tonics by 50% and healing by 50%
-Autoscrap should not scrap upgraded items now
-Autoscrap should now work with personal loot system
-Added module window for skill potion with Use All button
-Changed ranged monsters from floor 2 - 3 to have 1 tile range
-Reduced boss protection from 2 minutes to 30 seconds
-Added 5% damage reduction to all melee vocations
-Added new custom spell unlockable on floor 1
+Removed loot table from demons
+Skull bug fixed
+Venemous fangs legendary effect fixed
+Added all monsters on floor 5 to experience task
+Added abyss coins as a currency in the skill window
+Potentially Fixed bot rotation
+Added another spawn downstairs to for dune sworn (floor 5)
+Expanded with another hunting spawn on floor 2
+Added density and fixed some map bugs
+Added scrapping of cards and boosting deck slots
+Floor 10 is fixed
+Cleaned up entire wiki
+Added promotion vocations as subcategories to base vocations
+Added stamina potion to store
+Fixed arcane step bug abuse in the arena
+grarg kill now gives everyone who damaged it the completion for arcanic dynamite quest
+Tower coins drop chance now increases with floor level
+Floor bosses now reset health when no players are in the room
+You can now add multiple stats in the stat window
+Present on floor 2 now gives countdown in chat
+Updated T1 and T3 sprites
+Implemented Divine scrap. Scrapping a legendary item gives you a divine scrap, combining 10 of these creates an Orb of Divinity
+Added blacklist to essence and gloomgild drop
+Increased width of dps meter
+Increased height of skill potion window
+Vocation change scroll added
+Custom spell reset scroll added
+Added walkthrough for custom spells
+Added right clicking on currency in skill window to deposit all
+Potions can now only be used on self
+Elementalist no longer spams chat
