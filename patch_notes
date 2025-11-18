@@ -1,31 +1,11 @@
-Removed loot table from demons
-Skull bug fixed
-Venemous fangs legendary effect fixed
-Added all monsters on floor 5 to experience task
-Added abyss coins as a currency in the skill window
-Potentially Fixed bot rotation
-Added another spawn downstairs to for dune sworn (floor 5)
-Expanded with another hunting spawn on floor 2
-Added density and fixed some map bugs
-Added scrapping of cards and boosting deck slots
-Floor 10 is fixed
-Cleaned up entire wiki
-Added promotion vocations as subcategories to base vocations
-Added stamina potion to store
-Fixed arcane step bug abuse in the arena
-grarg kill now gives everyone who damaged it the completion for arcanic dynamite quest
-Tower coins drop chance now increases with floor level
-Floor bosses now reset health when no players are in the room
-You can now add multiple stats in the stat window
-Present on floor 2 now gives countdown in chat
-Updated T1 and T3 sprites
-Implemented Divine scrap. Scrapping a legendary item gives you a divine scrap, combining 10 of these creates an Orb of Divinity
-Added blacklist to essence and gloomgild drop
-Increased width of dps meter
-Increased height of skill potion window
-Vocation change scroll added
-Custom spell reset scroll added
-Added walkthrough for custom spells
-Added right clicking on currency in skill window to deposit all
-Potions can now only be used on self
-Elementalist no longer spams chat
+Fixed floor 8 giving access to floor 10 and 9
+Training dummies no longer one shots you
+Fixed so weather world boss spawning on floors above 10 now spawns the portal correctly
+Added magic rope spell called Arcane Ascent
+Added training area
+Fixed so legendary items always have 3 stats
+Removed applying legendary with orb of divinity on backpack
+You can now upgrade rings, amulets and charms
+Fixed backpack issue
+Reduced drop rate of legendaries and orb of divinity
+You can now drop unique items (1 in 1500) that have special devastating effects. There are currently 2 with more to come.
