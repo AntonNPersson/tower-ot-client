@@ -1,11 +1,9 @@
-Fixed floor 8 giving access to floor 10 and 9
-Training dummies no longer one shots you
-Fixed so weather world boss spawning on floors above 10 now spawns the portal correctly
-Added magic rope spell called Arcane Ascent
-Added training area
-Fixed so legendary items always have 3 stats
-Removed applying legendary with orb of divinity on backpack
-You can now upgrade rings, amulets and charms
-Fixed backpack issue
-Reduced drop rate of legendaries and orb of divinity
-You can now drop unique items (1 in 1500) that have special devastating effects. There are currently 2 with more to come.
+Implemented auto use cards
+implemented auto bless
+fixed arcane ascent to only be usable on rope spots
+multihit now does not hit through walls
+Removed a bunch of spam
+Stat cards upgraded by card scraps now automatically updates without needing to reequip
+Fixed cooldowns
+Added PoE like tooltip
+Added cursed pylons that spawns 3 waves and gives 3x rewards
