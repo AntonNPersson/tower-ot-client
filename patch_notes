@@ -7,3 +7,10 @@ Stat cards upgraded by card scraps now automatically updates without needing to 
 Fixed cooldowns
 Added PoE like tooltip
 Added cursed pylons that spawns 3 waves and gives 3x rewards
+Added save to every setting in options
+Dont shrink/strech bug now fixed
+Fixed damage reduction bug
+Fixed card bug that made certain stat infinitely scale
+Added a chance for Cursed monsters to spawn
+Added a chance for Cursed Dimension to spawn
+Added two new types of essences
