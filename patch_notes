@@ -1,16 +1,16 @@
-Implemented auto use cards
-implemented auto bless
-fixed arcane ascent to only be usable on rope spots
-multihit now does not hit through walls
-Removed a bunch of spam
-Stat cards upgraded by card scraps now automatically updates without needing to reequip
-Fixed cooldowns
-Added PoE like tooltip
-Added cursed pylons that spawns 3 waves and gives 3x rewards
-Added save to every setting in options
-Dont shrink/strech bug now fixed
-Fixed damage reduction bug
-Fixed card bug that made certain stat infinitely scale
-Added a chance for Cursed monsters to spawn
-Added a chance for Cursed Dimension to spawn
-Added two new types of essences
+Profiles now save properly (on my computer)
+Fixed cursed dimensions to always spawn correct monsters
+black listed dimensions from spawning from arena
+mushroom spawning fixed
+FIXED ORBS I THINK
+Fixed training dummy area
+Scrap storage implemented
+Ritual altar items will now sacrifice the entire stack
+Cursed dimensions should no longer spawn water creatures
+Added auto deposit scrap to quick settings
+Added !test command instead of shop
+Fixed leftpanel
+Backpack positions are now saved
+Fixed sailing with bounty hunter flesher
+Hotkeys with WASD mode should be fixed
+Added wiki to automatically open on new character and on new floors, you can toggle it off with !togglewiki
