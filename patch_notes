@@ -1,16 +1,7 @@
-Profiles now save properly (on my computer)
-Fixed cursed dimensions to always spawn correct monsters
-black listed dimensions from spawning from arena
-mushroom spawning fixed
-FIXED ORBS I THINK
-Fixed training dummy area
-Scrap storage implemented
-Ritual altar items will now sacrifice the entire stack
-Cursed dimensions should no longer spawn water creatures
-Added auto deposit scrap to quick settings
-Added !test command instead of shop
-Fixed leftpanel
-Backpack positions are now saved
-Fixed sailing with bounty hunter flesher
-Hotkeys with WASD mode should be fixed
-Added wiki to automatically open on new character and on new floors, you can toggle it off with !togglewiki
+Fixed stat window bug
+Fixed container window bug
+Added 3 new uniques
+Added abyss window to track kills and effects
+Talent reset added
+Fixed taunt to be on other group cd
+Fixed titanic might
