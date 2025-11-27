@@ -1,7 +1,12 @@
-Fixed stat window bug
-Fixed container window bug
-Added 3 new uniques
-Added abyss window to track kills and effects
-Talent reset added
-Fixed taunt to be on other group cd
-Fixed titanic might
+Fixed stat spell gems
+Fixed ghosted spell gem
+Fixed so gems cant level on training dummies
+updated dps meter
+Added 3 pugilist weapons and unique
+Added detailed descriptions for gems in module window
+buffed lifesteal gem
+Added shield unique
+Added automatic scaling and level requirement for unique items
+Fixed upgrade tokens with unique items
+Fixed orb of refinement with unique items
+Fixed transfer scroll with unique items
