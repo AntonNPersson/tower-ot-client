@@ -1,23 +1,4 @@
-Fixed correctly saving settings
-Might have fixed reflection damage
-Fixed bigger experience tasks with task point system for perks
-Changed daily task to be bounties with different objectives instead of just kill, you can abandon by right clicking them
-Fixed so that if inventory and depot is full, personal loot system now delivers it to the inbox instead of directly on the ground
-fixed so orbs now uses the personal loot system
-Changed so roshamuul monsters give base 3x experience of the same floor monsters, and now it scales with experience stages
-Added experience stages
-Fixed so ancient tower guardians now spawn every day instead of specific days
-Updated wiki
-Made all ancient guardian/world/roshamuul bosses deal percentage max health damage, everything should be harder now
-Updated achievements to show rewards
-Fixed so you can have three total uniques instead of two. One hand unique, one misc unique (amulet,neck) and one armor unique
-fixed showing remaining monsters in bloodstorm event also updated to spawn 50 monsters
-Added more robust knockback checks
-Added follow to bot and quick bot
-Potentially fixed the targeting square not showing sometimes
-Fixed reputations to update correctly
-Added addon doll event that happens randomly once per day
-Added floor to event notifications
-Added diminishing returns to CC
-Added new wapoints on every floor
-Added achievements to unlock for the waypoints
+Added titles with both account based titles and player based.
+Added abyss leaderboards
+Added new stat might that is just the accumulation of all your power, it shows in the skill window, when you inspect a player and in its own leaderboard
+Added otherworldy pylon event
