@@ -1,2 +1,14 @@
-Added trials
-Added shaders to instanced entries
+Added npcs to introduce mininig, fishing, herbalism, card system, spell gem system, custom spell system and trials
+You can now teleport in combat on waypoints
+Added so blood vial and experience potions are soulbound
+Nerfed guild experience gained
+Otherworldy pylon event monsters now have 3x health and it lasts for 10 minutes
+Added shaders to the proffession objects to make it harder to miss
+Added event notifications in the top -right
+Added descriptions to custom spells
+Added auto-scrap legendaries
+Increased max ambient light to 85% from 70%
+Added reflect to the skill window
+Added 2 new abyss bosses
+Added new unique for trials
+Added two new uniques for abyss
