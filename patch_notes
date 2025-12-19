@@ -1,23 +1,15 @@
-Added analyzer
-Added bestiary
-Increased movement speed of all monsters
-Updated spell effects
-All client crashes should now be resolved
-Experience task, essence and cursed dimensions are now based on floor
-Pathing fixed, you know move like bruce lee, also fixed diagonal walk speed so its the same speed as cardinal
-Updated unique fist weapon sprite
-Changed exori dash to exori blur, it now auto attacks with a little extra damage all targets around you in a 3x3 area
-Added manual overriding for bot autotarget
-Added floor 12, a broken heavenly realm where angels and devils fight for control.
-Fixed cursed dimension to not spawn until floor 2
-Added starting weapon and shield to pugilist
-Removed "You used the last of " message when using items since they are infinite anyways
-Fixed experience task to give instant feedback when you accept a task
-Fixed so miniwindows save positioning and visibility state when logging out
-Added task tracker
-Buffed drop rate of all stat stones
-Updated enter instance UI with loot table
-Updated UI slightly
-Potentially fixed so monsters in dungeons are only respawned when you finish the dungeon
-Added stat increases to bestiary that increase with killing X amount of monsters on a specific floor. Each floor grants a specific stat meaning if you want attack speed for example you need to hunt on floor 1
-Potentially fixed so monsters in dungeons are only respawned when you finish the dungeon
+Fixed all UI elements to be resizable from all sides and corners
+Fixed so chat position and size saves
+Otherwordly pylons now dont spawn water creatures
+Potentially fixed the extra right panel bug
+Fixed manual scrapping sometimes not returning correct scrap
+Added a new questline on floor 2 that gives you skill potions and a new mount
+Added wiki entries for all quests
+Added 2 cosmetics for 25000 and 50000 scrap
+Added automatically open teleport list when walking over a waypoint, and automatically close it when walking away from it.
+Added patrol mechanic to npcs, so that we can set a path they will walk on.
+Added cat lady quest where you have to find her wandering cat in the city of haven
+Added inspect
+Added item linking in the chat with ctrl + alt click on item in either inventory, containers or inspect
+Added mushroom quest where you receive your first charm on floor 3
+Buffed oraclon and malacar on floor 12
