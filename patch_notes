@@ -1,15 +1,5 @@
-Fixed all UI elements to be resizable from all sides and corners
-Fixed so chat position and size saves
-Otherwordly pylons now dont spawn water creatures
-Potentially fixed the extra right panel bug
-Fixed manual scrapping sometimes not returning correct scrap
-Added a new questline on floor 2 that gives you skill potions and a new mount
-Added wiki entries for all quests
-Added 2 cosmetics for 25000 and 50000 scrap
-Added automatically open teleport list when walking over a waypoint, and automatically close it when walking away from it.
-Added patrol mechanic to npcs, so that we can set a path they will walk on.
-Added cat lady quest where you have to find her wandering cat in the city of haven
-Added inspect
-Added item linking in the chat with ctrl + alt click on item in either inventory, containers or inspect
-Added mushroom quest where you receive your first charm on floor 3
-Buffed oraclon and malacar on floor 12
+Added new quest on floor 4 where you have to find and kill a boss that walks around the entire map
+Added new quest on floor 6
+Added new quest on floor 7 and something else
+Added new quest on floor 5
+Added new quest on floor 8
