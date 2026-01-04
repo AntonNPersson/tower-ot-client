@@ -1,28 +1,15 @@
-Added wandering boss on floor 9
-Added 2 secrets to floor 9
-Nerfed experience from otherwordly pylons
-Buffed monsters and bosses for quests on floor 2 and 3
-Buffed dungeon monsters and bosses on floor 3
-Fixed pylon event notification
-Added so mushrooms from forest dwellers can now spawn around party members
-Fixed dungeons completions not giving tokens correctly
-Fixed bosses sometimes not teleporting you
-Fixed some bosses using windows specific time checking for cooldowns which didnt work on linux server
-Changed weaponmaster sword sweep to do autoattacks instead of just damage but reduced the damage
-Added Activity chat tab that keeps track of all quests and tasks so it doesnt spam local chat
-Fixed colored text in server log as well
-Fixed transfer scroll
-Fixed multihit to show distance effects and be of the same damage type as the original weapon type
-Fixed map bugs
-Added new quest to floor 9
-Added level/hour to analyzer
-Fixed event notification for ancient guardians
-Fixed prism of ascension for fist unique
-Added daily quest on floor 11
-Added dungeon to floor 11
-Added new aoe rune that can be crafted from ores
-Added training weapons for all skills that increases skill gained when used, can be crafted with ores as well 
-Added monsters to floor 13
-Added T4 gear on floor 13
-Added scrapping to all items
-Added complex faction system to monsters, meaning that monsters can have factions and if you are friendly with them the monster is treated as an npc
+Fixed scientist lucas quest
+Fixed mushroom client/server mismatch
+Added ancient tower guardian daily quest to floor 13
+Added 4 new mounts to donation shop
+Added 4 new outfits to donation shop
+Fixed so autocast procs oncast effects
+Fixed experience task module
+Added corpses to pirates and marines
+Fixed autoloot to work with personal loot, meaning tower coins on floor 13 is fixed
+Updated wiki with floor 13, all new quest, all new dungeons and updated each floor to provide more information of what exists there
+Added new aura unique amulet
+Added new autocast unique helmet
+Rebalanced all unique item stats
+Added all unique items to market
+Fixed upgrade token and stat stones shop bug
