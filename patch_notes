@@ -1,15 +1,10 @@
-Fixed scientist lucas quest
-Fixed mushroom client/server mismatch
-Added ancient tower guardian daily quest to floor 13
-Added 4 new mounts to donation shop
-Added 4 new outfits to donation shop
-Fixed so autocast procs oncast effects
-Fixed experience task module
-Added corpses to pirates and marines
-Fixed autoloot to work with personal loot, meaning tower coins on floor 13 is fixed
-Updated wiki with floor 13, all new quest, all new dungeons and updated each floor to provide more information of what exists there
-Added new aura unique amulet
-Added new autocast unique helmet
-Rebalanced all unique item stats
-Added all unique items to market
-Fixed upgrade token and stat stones shop bug
+fixed ritual boss on floor 13
+fixed tonic enhancer
+Replaced doubloons with tower coins
+Nerfed sailing currency drop rate
+You now use sailing currency for ritual boss
+Added new dungeon on floor 13 with unique item drop
+Added waypoints to floor 13
+added achievement for finding them
+Added another secret and achievement for it
+Added final boss of the tower "The Arbiter" that gives you an account title for defeating
