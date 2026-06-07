@@ -1,6 +1,5 @@
-Abyss
-The roguelike endgame run got a major content and balance pass.
-
+# Abyss
+> The roguelike endgame run got a major content and balance pass.
 Added autocast cards: Chain Lightning, Frost Nova, Meteor Rain, and Sanctuary
 Added amplifier cards Stormlord and Thornmail that boost your equipped kit
 Added combat cards: Frostbite, Soul Harvest, Detonate, and Avarice
@@ -24,13 +23,11 @@ Fixed several crashes (summon autocast, spell backfire, on-kill spawns)
 Fixed reward text being cut off in the portal
 Disabled the combat speed penalty for bosses
 
-Card Collection
-
+# Card Collection
 Rebalanced all cards to scale with slot investment
 Fixed a damage-reduction bug that doubled on relog
 Fixed card stat values being truncated or shown incorrectly
 Card descriptions now display their real live values instead of placeholder text
 
-General
-
+# General
 Added character appearance and Might to the character list
