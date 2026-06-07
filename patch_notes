@@ -1,5 +1,36 @@
-Reblanced all legendary cards
-Added 10 autocast cards of different rarities
-Added 10 aura cards of different rarities
-Added new reflect legendary card
-Fixed equipment stat bug
+Abyss
+The roguelike endgame run got a major content and balance pass.
+
+Added autocast cards: Chain Lightning, Frost Nova, Meteor Rain, and Sanctuary
+Added amplifier cards Stormlord and Thornmail that boost your equipped kit
+Added combat cards: Frostbite, Soul Harvest, Detonate, and Avarice
+Added spell-cast cards: Resonance, Arcane Overflow, and Echo
+Added summoner card Void Spawn and adjacent-pulse card Orbiting Blades
+Added death-prevention cards Aegis Protocol and the legendary Phoenix
+Added cards Predator, Glass Cannon, and Lifeweave
+Added enemy Key Modifiers: Cursed Ground, Vampiric, Adrenaline, and Reanimator
+Added encounter types: Horde, Swarm, and Elite Pack
+Added the Void Walker enemy roster (Bruiser / Seer / Swarmling)
+Added a deck framework with slot caps, rarity caps, and Dissolve (respec)
+Added the Upgrade Tome and permanent Upgrade Picker meta-progression
+Added a "My Upgrades" tab and per-type HUD breakdown to the portal
+Added procedural boss rounds
+Added risk-vs-reward coin rewards that also scale XP
+Rebalanced enemy roster sizes for fairer fights
+Rebalanced the Upgrade Tome to a single escalating cost with free rerolls
+Capped damage reduction at 45%
+Fixed Void Spawn dealing no damage and stalling encounters
+Fixed several crashes (summon autocast, spell backfire, on-kill spawns)
+Fixed reward text being cut off in the portal
+Disabled the combat speed penalty for bosses
+
+Card Collection
+
+Rebalanced all cards to scale with slot investment
+Fixed a damage-reduction bug that doubled on relog
+Fixed card stat values being truncated or shown incorrectly
+Card descriptions now display their real live values instead of placeholder text
+
+General
+
+Added character appearance and Might to the character list
