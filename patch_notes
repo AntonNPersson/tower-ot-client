@@ -1,4 +1,64 @@
-= 0.9.9.9.1 | 2025-11-02
+= 0.9.9.9.4 | 2026-07-01
+# Trials
+> Trials now grade your performance and pay out accordingly, with new ways to spend your badges.
+Added rank grades (S / A / B / C) with rank-scaled rewards and an active-play streak bonus
+Added a grade popup with your rank and streak after each trial
+Added the Manaforge card and the Chronos card shop, purchasable with trial badges
+Added the Mana Detonation spell as a spell-tome badge sink
+Added new cards: Prism Edge, Prospectors Charm, and Token Hunter
+Reworked NPC card and tome shops to offer every variant in one trade window
+
+# World
+Added elite loot: Elite, Legendary, and Cursed monsters now pay guaranteed floor-scaled rewards (scrap, gold, upgrade tokens, stat stones, loot boxes)
+Added 10+ elite types like Hoarder, Vampiric, Volatile, and Crystalline: each changes how the monster fights and which rewards it leans into
+Added Cursed Wardens: clearing cursed portals charges a Curse Meter, and every 5th portal becomes a Warden arena fight with adds - slay the Warden to finish the run instantly
+Added four Warden bosses by depth: Warden of Rust, Warden of Ash, Warden of the Void, and The Curse-Eater
+Reworked the Otherworldly Pylon into a wave-defense event: waves scale with nearby defenders and escalate, with a live HUD showing wave, pylon integrity, and repair status
+Added an ore mining heat mini-game: manage overheat for bonus rewards
+Added a herbalism mini-game
+Added themed field-boss card rewards to personal loot (starting with Cyclopean Wrath)
+Rebalanced a large batch of bosses
+
+# General
+Redesigned the promotion selection window
+Fixed the loot popup cutting off decimal values
+
+= 0.9.9.9.3 | 2026-06-18
+# Interface
+> Nearly every window got rebuilt to the new unified visual theme.
+Redesigned the DPS meter into a dockable, SKADA-style window with per-vocation bars
+Redesigned hotkeys, quick settings, quick bot, autocast, autoloot, and the analyzer
+Redesigned notifications, teleports, dungeon windows, countdowns, skills, quest log, and minimap
+Added a moveable status bar HUD with HP/Mana, conditions, and spell cooldowns
+Added status effect icons over creatures so you can see stuns, burns, and slows at a glance
+Added mana bars and titles to creatures
+Added a barrier HP-bar overlay
+
+# Scrap
+Added stat filters to auto-scrap: set a keep threshold per stat so good rolls survive
+
+= 0.9.9.9.2 | 2026-06-12
+# Abyss
+> The endgame run got wave encounters, smarter bosses, and a proper ladder payoff.
+Added Survival and Gauntlet wave encounters that spawn enemies in rings around you
+Added themed and seeded boss rounds: every run rolls its own boss combinations
+Added seasonal ladder titles granted at season reset
+Added a slot-usage header to the My Upgrades tab
+Changed run completion coins to bank directly into your Abyss coin balance
+Fixed a coin-delivery crash that hung every run completion
+Fixed the Gauntlet softlock after clearing a wave
+Fixed Abyss kills opening cursed portals
+
+# Leaderboards
+Added guild emblems and rank medals to all boards
+Added an Abyss deck column: inspect the full decks of top players
+
+# General
+Fixed rubberbanding during high-speed movement
+Improved movement smoothness with ping-adaptive prediction
+Updated the wiki with a full rewrite of The Abyss endgame guide
+
+= 0.9.9.9.1 | 2026-06-07
 # Abyss
 > The roguelike endgame run got a major content and balance pass. It now has permanent upgrades, dynamic encounters, dynamic bosses and much more!
 Added autocast cards: Chain Lightning, Frost Nova, Meteor Rain, and Sanctuary
