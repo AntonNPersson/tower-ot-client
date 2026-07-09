@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.4",
-  "releaseDate": "2026-07-01",
+  "version": "0.9.9.9.5",
+  "releaseDate": "2026-07-09",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added Trial rank grades (S/A/B/C) with streak bonuses and new badge shops",
-    "Added elite loot with 10+ elite types, plus Cursed Warden boss runs",
-    "Added ore mining and herbalism mini-games and reworked the Otherworldly Pylon",
-    "Redesigned nearly every window to the new unified visual theme"
+    "Added themed epic cards for every field boss plus four legendary keystones",
+    "Added the Journey system with daily and weekly objectives and login streaks",
+    "Added talent ranks, a fishing mini-game, and rare-drop loot beams",
+    "Added a per-source DPS meter breakdown and rebalanced card proc damage"
   ]
 }

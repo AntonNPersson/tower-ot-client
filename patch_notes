@@ -1,3 +1,30 @@
+= 0.9.9.9.5 | 2026-07-09
+# Card Collection
+> Field bosses now fuel whole builds: every one drops its own card, topped by build-defining legendary keystones.
+Added a themed epic card for every field boss: Frostguard, Maelstrom, Cinderwake, Backdraft, Broadside, Soul Siphon, Anchor, and more
+Added four legendary keystone cards: Juggernaut, Sanguine Pact, Warpriest, and Herald's Court
+Added companion cards that summon a Bound Revenant, Bound Angel, or Thunderclaw Ape mirroring your own stats
+Improved summons: they keep pace with you and teleport to your side when left behind
+Added unique art for epic and legendary cards
+Added a per-source breakdown to the DPS meter: hover a bar to see damage per card and summon
+Rebalanced card and item proc damage to scale consistently with your stats
+
+# Journey
+> A new companion for your climb: goals to chase every day and rewards for showing up.
+Added the Journey window with onboarding steps for new characters
+Added daily and weekly objectives with rewards
+Added login streak rewards
+
+# Talents
+Added talent ranks: rank up your talents at levels 200, 400, and 600 for stronger effects
+
+# World
+Added a fishing mini-game with bite-and-strike timing
+Added loot beams: unique, legendary, and flawless drops now light up on the ground (toggle in quick settings)
+
+# General
+Improved movement smoothness and creature step timing
+
 = 0.9.9.9.4 | 2026-07-01
 # Trials
 > Trials now grade your performance and pay out accordingly, with new ways to spend your badges.
