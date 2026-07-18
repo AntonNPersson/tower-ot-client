@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.5",
-  "releaseDate": "2026-07-09",
+  "version": "0.9.9.9.6",
+  "releaseDate": "2026-07-18",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added themed epic cards for every field boss plus four legendary keystones",
-    "Added the Journey system with daily and weekly objectives and login streaks",
-    "Added talent ranks, a fishing mini-game, and rare-drop loot beams",
-    "Added a per-source DPS meter breakdown and rebalanced card proc damage"
+    "Added new autocast, summon, aura, and build-bridge cards plus the Deathblow legendary",
+    "Added six unique items including Resonance Conduit, Overload, and Beastbinder",
+    "Added talent rank-up materials from field bosses and Wardens",
+    "Added the Activity Tracker and redesigned the minimap and skills window"
   ]
 }

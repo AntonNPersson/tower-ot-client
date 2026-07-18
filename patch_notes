@@ -1,3 +1,53 @@
+= 0.9.9.9.6 | 2026-07-18
+# Card Collection
+> A wave of new cards, plus a reveal moment the first time an epic or legendary drops for you.
+Added autocast cards: Autocast Frost Lance for single targets and Autocast Tempest for crowds
+Added Soul Ward, an epic that grants a barrier on every kill
+Added build-bridge epics: Aegis Momentum, Hex Detonation, Soulbond Beacon, and Retaliation Charge
+Added the Deathblow legendary: critical strikes have a chance to trigger a heavy follow-up hit
+Added summon cards Wolf Pact and Demon Pact, plus the summon abilities Pack Tactics, Frenzy, and Cleave
+Added aura cards including Static Field and Lifebloom
+Added a first-time unlock reveal for new epic and legendary cards and upgrades
+Buffed the on-kill cards Corpse Burst, Miasma, and Reaper's Harvest to hit far harder
+Rebalanced autocast card damage and buffed stat cards across the board
+Fixed several card descriptions showing wrong or garbled values
+
+# Gear
+Added unique items: Resonance Conduit, Overload, Barrier Reactor, Beastbinder, Essence Chaser, and Eye of the Storm
+Buffed The Scorcher's Fire Bombardment roll
+Buffed Titanic Might to 8% max HP every 8th attack
+Nerfed Bulwark Edge
+Fixed The Scorcher counting magic level twice
+
+# Talents
+Added talent rank-up costs: Talent Tomes drop from field bosses on the next rank's floor, Warden Catalysts from Warden kills
+Added rank-up material costs and owned counts to the talent window
+
+# World
+Reworked the Otherworldly Pylon: integrity now drains by distance, repair essence is visible, and corpses clear from the arena
+Added a First Clear bonus to experience tasks
+Rebalanced Warden kills to credit 10 progress to every kill bounty
+Rebalanced stat stone drops and a large batch of monster spawns
+Renamed dungeon tokens to Gloomgilds
+Improved elite loot so every participant is credited
+Fixed Floor 5 elite and cursed monsters failing to respawn
+Fixed the Ancient Tortoise dropping no personal loot
+Fixed max HP and mana not recalculating after a vocation change
+
+# Interface
+Added the Activity Tracker with a Next Up view for Journey steps, bounties, and experience tasks
+Redesigned the minimap and added a party minimap
+Redesigned the skills window
+Added small card thumbnails to the collection grid
+Added per-character stat filters and clearer auto-scrap rarity labels to quick settings
+Improved Reduce Visual FX to also dim effect and missile alpha
+Fixed the outfit window dropping your worn shader, wings, aura, and effect
+Fixed legendary items being auto-scrapped
+
+# General
+Improved PvP mode handling and validation
+Fixed a batch of small interface bugs found in a full-client polish pass
+
 = 0.9.9.9.5 | 2026-07-09
 # Card Collection
 > Field bosses now fuel whole builds: every one drops its own card, topped by build-defining legendary keystones.
