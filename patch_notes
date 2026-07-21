@@ -1,3 +1,81 @@
+= 0.9.9.9.7 | 2026-07-21
+# Shipyard
+> Sailor Jake stopped selling upgrades by keyword. There is a shipyard now.
+Added the Shipyard window: hull, sails and armament slots with tiered parts, opened by talking to Sailor Jake
+Added figureheads dropped by ship crews: Ashen Prow, Drowned Saint, Siren of the Shallows, and Kraken's Maw
+Added the Smuggler's Hull, which increases sailing currency drops for every tier fitted
+Added one-time deck unlocks bought from the shipyard: the Boarding Plank and the Ship Cannon
+Fixed ship bonuses firing on land: your build now switches on when you step onto water and off when you leave it
+
+# Dungeons
+> Every dungeon now has a difficulty ladder, and clearing one opens the next.
+Added a difficulty selector to the dungeon entry popup, showing health, damage and loot scaling before you commit
+Added difficulty unlocks: clearing a level credits everyone in the instance and opens the next one
+Added party scaling to four-player dungeons: monster health scales with party size and experience is multiplied so your share matches a solo run
+Added a Boarding Plank requirement to the Battle Ship dungeon, one per party member
+Improved dungeon difficulty to raise unique drop chances and material payouts as you climb it
+Fixed instanced dungeon bosses missing from the bestiary and from the entry popup reward list
+Fixed a refused dungeon entry making a boardable ship appear to vanish
+
+# Legendary Ascension
+Added Ascendant Shards and the Ascendant Orb: fifty shards forge one orb
+Added Ascension: an orb permanently strengthens one legendary item's legendary effect, once
+Added an Ascended tag to item tooltips, showing the boosted value
+Added a warning before rerolling an Ascended item with the Orb of Chaos, which destroys the Ascension
+Improved the legendary transfer scroll to carry the Ascension along with the effect
+
+# Elena's Archive
+> The tower keeps no records. Elena does.
+Added Elena's Archive: a codex of tower testimony with chapters and entries grouped by floor
+Added a testimony form inside the archive window, so you file findings instead of typing keywords at an NPC
+Added readable notes out in the world: Marren's Report, Thalassa Dig - Standing Orders, and The Sisters' Verse
+Added the Chronicler seasonal achievement for seeing a chapter completed, worth ten Master Stat Stones
+
+# Card Collection
+Added four world boss cards, each dropped only by its weather lord: Solar Flare, Glacial Shatter, Mistfall, and Thunderhead
+Improved these four to hit harder than their common counterparts, and kept them out of random card drops
+
+# Gear and Loot
+Rebalanced weather lord loot: more stat stones and guaranteed upgrade tokens, with extra advanced rewards at level 350 and master rewards at 600
+Added boss exclusive uniques: Rotstride Greaves from the Rotten Treeling Patriarch and Eye of the Storm from the Gem King
+Removed those two from the global unique pool, so the boss is now the only source
+Rebalanced Spellbook of Lost Souls and Sacred Tree Amulet into rare boss exclusive drops
+Reduced upgrade token payouts from four to eight down to three to six on the Rotten Treeling Patriarch, Gem King and Haunting Captain
+Fixed the floor 13 epic loot box sets: the training axe is gone and marine legs complete the marine set
+Fixed auto scrap keeping nothing when you picked item types without watching any stats
+
+# Combat
+Increased melee damage across the entire monster roster by about a quarter
+
+# Visual Effects
+Added ground effects for Elemental Eruption in fire, ice and earth
+Added Arcanist spell effects: burst mandalas on strikes, a seal flourish on locks, and a persistent Overcharge aura
+Added buff auras for Berserker Rage, Cyclone, Whirlwind, Blade Mastery, Weapon Mastery, Combat Expertise, and all six KI auras
+
+# Interface
+Added a party window with health and mana bars, right click inspect and message, and leader markers
+Added overhead role markers: Tank, DPS, Healer, Support, Kill, Scout, Focus and Objective
+Added party invites to the VIP list, with an accept or decline popup for incoming invites
+Added a card build panel to the inspect window, showing another player's four equipped cards
+Added detail to promotion selection: a tagline, stat bars and the spell list for every vocation
+Added item type filters to auto scrap, so you can keep or scrap by type
+Added bug report categories and a top menu button, with map reports attaching your position
+Added card previews to bestiary loot lists
+Added nameplates above shaded map objects
+Improved talent rank ups into a full confirmation dialog with per stat rows
+Fixed the client crashing when previewing an outfit that wears an unknown effect
+Fixed tooltips being corrupted by party loot and arena announcements
+Fixed clipped achievement text, boss bar readability, card collection buttons, custom spell cards under the scrollbar, and broken labels in experience tasks
+
+# General
+Added Sergeant Halvard to the tower
+Added a summit moment for everyone who fights The Arbiter when he falls
+Enabled bug reports for all accounts, not just staff
+Improved the floor boss announcement so only players at the fight see it
+Updated names and dialogue: Grarg One-Eye, Guild Leader Fellah, and the starting town Threshold
+Fixed item rarity frames not updating until the item was moved
+Fixed the altar erroring when used on nothing
+
 = 0.9.9.9.6 | 2026-07-18
 # Card Collection
 > A wave of new cards, plus a reveal moment the first time an epic or legendary drops for you.

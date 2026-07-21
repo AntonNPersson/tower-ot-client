@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.6",
-  "releaseDate": "2026-07-18",
+  "version": "0.9.9.9.7",
+  "releaseDate": "2026-07-21",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added new autocast, summon, aura, and build-bridge cards plus the Deathblow legendary",
-    "Added six unique items including Resonance Conduit, Overload, and Beastbinder",
-    "Added talent rank-up materials from field bosses and Wardens",
-    "Added the Activity Tracker and redesigned the minimap and skills window"
+    "Added the Shipyard, a dungeon difficulty ladder, and Legendary Ascension",
+    "Added Elena's Archive and four world boss cards",
+    "Added a party window with role markers and VIP party invites",
+    "Increased monster melee damage across the roster"
   ]
 }
