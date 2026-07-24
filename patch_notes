@@ -17,6 +17,11 @@ Improved the daily login calendar for pass holders to roughly double value
 Reworked the early Journey steps to guide new players through unlocking their first custom spell, setting up Autocast, and slotting a starter card
 Added catch up handling so a Journey step you already finished before reaching it no longer leaves the chain stuck
 
+# Lighting
+> A pass over how the tower is lit, for a bit more atmosphere.
+Improved light sources so torches, spells and glowing objects cast a warmer, more natural glow
+Added per floor ambient tinting, so every floor of the tower now carries its own colour and mood
+
 # Card Collection
 Added Runic Focus, an epic card that makes the vocation runes you use forty percent more effective
 Added Runecarver, an epic card that bakes a larger bonus into the vocation runes you conjure
