@@ -1,3 +1,39 @@
+= 0.9.9.9.8 | 2026-07-24
+# Shop
+> The store got a new look and two new ways to spend your coins.
+Added the Fortune Slot machine: a new Slot tab where each roll can hit tower coins, rare rewards, or slot exclusive mounts you cannot get anywhere else
+Added a pity system to the slot machine that guarantees a rare or better result within twenty five rolls
+Added the Season Starter Pack: a once per season bundle with the exclusive Shadow Draptor mount plus stamina, experience, loot, and stat stone boosts
+Added a Starter tab stocked with cheap staples for new climbers: stamina refills, experience and loot scrolls, blessing scrolls, and a beach backpack
+Redesigned the storefront to match the rest of the interface, with an animated shop button on the top bar
+
+# Climber's Pass
+> A season long premium track for your Journey.
+Added the Climber's Pass: a season premium bought in the shop that boosts your Journey rewards for the whole season
+Added two extra daily and two extra weekly Journey objectives for Climber's Pass holders
+Improved the daily login calendar for pass holders to roughly double value
+
+# Journey
+Reworked the early Journey steps to guide new players through unlocking their first custom spell, setting up Autocast, and slotting a starter card
+Added catch up handling so a Journey step you already finished before reaching it no longer leaves the chain stuck
+
+# Card Collection
+Added Runic Focus, an epic card that makes the vocation runes you use forty percent more effective
+Added Runecarver, an epic card that bakes a larger bonus into the vocation runes you conjure
+
+# Runes
+Rebalanced rune conjuring to cost scrap instead of mana, with the price scaling by your highest floor
+
+# Cooking
+Rebalanced cooked food to grant timed stat buffs for fifteen minutes, with stronger dishes giving bigger bonuses
+
+# General
+Added New Player Guides to the wiki: Getting Started, Picking Your Path, The Guardian, and How to Become Stronger
+Increased Barbarian Skullhunter spawns on Floor 1
+Fixed the Shipyard and Archive windows so they reopen when you talk to their NPCs again
+Fixed achievement item rewards ignoring your auto deposit, auto scrap, and auto use settings
+Fixed a phantom New Spell Unlocked popup appearing for spells you had not actually unlocked
+
 = 0.9.9.9.7 | 2026-07-21
 # Shipyard
 > Sailor Jake stopped selling upgrades by keyword. There is a shipyard now.

@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.7",
-  "releaseDate": "2026-07-21",
+  "version": "0.9.9.9.8",
+  "releaseDate": "2026-07-24",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added the Shipyard, a dungeon difficulty ladder, and Legendary Ascension",
-    "Added Elena's Archive and four world boss cards",
-    "Added a party window with role markers and VIP party invites",
-    "Increased monster melee damage across the roster"
+    "Added the Fortune Slot machine and the Season Starter Pack to the shop",
+    "Added the Climber's Pass, a season premium track for your Journey",
+    "Added Runic Focus and Runecarver rune amplifier cards",
+    "Rebalanced rune conjuring to cost scrap instead of mana"
   ]
 }
