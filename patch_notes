@@ -1,3 +1,30 @@
+= 0.9.9.9.9 | 2026-07-25
+# Journey
+> The early Journey was reordered so the tower teaches you its tools before it asks you to fight.
+Reworked the opening steps to set up Autocast, Autoloot and Quick Settings first, so the rest of the tutorial plays with your automation already running
+Added Journey steps for Autoloot, Quick Settings and the Bestiary, each rewarding coins or stat stones
+Changed the starter card step to point at the Mysterious Stranger on Floor 1 instead of Floor 2
+Changed the bounty step to completing on opening the Tasks board, so it no longer waits on a full bounty
+Added two late Journey steps: clearing the Trap Dungeon on Floor 4 for the Swift Stride spell, and finding the Arena in Blackwater
+Improved Journey directions and tips throughout: where Scientist Lucas stands, where the stairs to Floor 2 are, where the Tinkerer trades, and how the Abyss key actually works
+Added catch up detection to the new steps, so anything you already did counts the moment the step comes up
+
+# Bosses and Encounters
+Rebalanced Glaciron's mirror stance: reflected damage cut from 75% to 20%, capped at 4% of your maximum health per hit, and limited to once per second
+Added a telegraph to Glaciron's mirror stance, with ring pulses and a warning so you can see the reflect coming instead of dying to it
+Fixed bosses keeping their damage reduction forever after the barrier visibly faded, which made them permanently resistant until a server restart
+Fixed Otherworldly Pylon events stalling at full integrity when a wave failed to spawn, leaving the event dead until it timed out
+
+# Abyss
+Removed the two poison cellar instances for quality, leaving six Abyss instances
+
+# Essences
+Reduced the essence drop rate from three percent to one percent per kill
+Changed essences to only start dropping once you have unlocked Floor 2, so Floor 1 stays clear of systems you have not been taught
+
+# General
+Fixed decorative map objects acting as dungeon entrances: pianos, harps, chairs, closed doors, rope ladders and eternal flames were glowing gold, showing a Mushroom Caves nameplate, and working as a live entrance
+
 = 0.9.9.9.8 | 2026-07-24
 # Shop
 > The store got a new look and two new ways to spend your coins.
