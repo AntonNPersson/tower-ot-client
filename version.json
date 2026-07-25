@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.9",
+  "version": "0.9.9.9.10",
   "releaseDate": "2026-07-25",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Reworked the early Journey to teach Autocast, Autoloot and Quick Settings first",
-    "Added Trap Dungeon and Arena steps to the Journey",
-    "Rebalanced Glaciron's mirror stance and fixed permanent boss damage reduction",
-    "Fixed decorative objects acting as dungeon entrances"
+    "Rebalanced boss movement speed across the whole roster",
+    "Reduced melee damage on around 230 monsters and bosses",
+    "Fixed potions doing nothing while you were running",
+    "Fixed The Guardian's upgrades and Shardling spawns"
   ]
 }

@@ -1,3 +1,15 @@
+= 0.9.9.9.10 | 2026-07-25
+# Combat
+> A pass over how bosses move and how hard everything hits.
+Rebalanced boss movement speed across the whole roster, so bosses no longer outrun their own telegraphs and their mechanics are dodgeable as intended
+Reduced melee damage on around 230 monsters and bosses, taking the edge off unavoidable burst
+Reduced Glaciron's melee damage from 375-575 down to 300-460
+
+# Fixes
+Fixed potions and other inventory items doing nothing while you were running: the use could be silently dropped whenever you took another step
+Fixed The Guardian's upgrades never applying
+Fixed Shardlings never spawning
+
 = 0.9.9.9.9 | 2026-07-25
 # Journey
 > The early Journey was reordered so the tower teaches you its tools before it asks you to fight.
