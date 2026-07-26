@@ -1,3 +1,7 @@
+= 0.9.9.9.12 | 2026-07-26
+# Autocast
+Fixed Health and Mana Tonic rules created by Auto Setup pointing at the wrong item, so the tonics were never actually used
+
 = 0.9.9.9.11 | 2026-07-26
 # PvP
 > The PvP mode switch was half-migrated to the expert hands, so several gates were reading the wrong flag.

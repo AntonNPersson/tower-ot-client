@@ -3,9 +3,9 @@
   "releaseDate": "2026-07-26",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
+    "Fixed Auto Setup tonic rules never using your Health and Mana Tonics",
     "Fixed Red Fist and secure mode doing nothing in PvP",
     "Fixed party members being attackable under every PvP hand",
-    "Auto use and auto deposit now apply to what you already carry",
     "Auto scrap can never destroy gear you have worn"
   ]
 }
