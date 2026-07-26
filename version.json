@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.10",
-  "releaseDate": "2026-07-25",
+  "version": "0.9.9.9.11",
+  "releaseDate": "2026-07-26",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Rebalanced boss movement speed across the whole roster",
-    "Reduced melee damage on around 230 monsters and bosses",
-    "Fixed potions doing nothing while you were running",
-    "Fixed The Guardian's upgrades and Shardling spawns"
+    "Fixed Red Fist and secure mode doing nothing in PvP",
+    "Fixed party members being attackable under every PvP hand",
+    "Auto use and auto deposit now apply to what you already carry",
+    "Auto scrap can never destroy gear you have worn"
   ]
 }

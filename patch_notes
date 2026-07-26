@@ -1,3 +1,34 @@
+= 0.9.9.9.11 | 2026-07-26
+# PvP
+> The PvP mode switch was half-migrated to the expert hands, so several gates were reading the wrong flag.
+Fixed Red Fist doing nothing: you could lock a target but every hit was silently dropped, and runes or targeted spells were refused with a secure mode warning
+Fixed the secure mode checkbox having no effect: unticking it now opts you back into open PvP if you never picked an expert hand
+Fixed party members being attackable: allies are protected under every hand, including when they are skulled or have already hit you
+Fixed Yellow Hand letting you attack unskulled party members, which was the opposite of what it promised
+Changed mind control effects to ignore party protection, so being turned on your own allies works as intended
+
+# Quick Settings
+> Auto actions used to only fire the moment an item was delivered, which is why they "did not work until you moved the item".
+Added a backpack sweep: turning auto use or auto deposit on now applies it to what you are already carrying, and it runs again on login
+Fixed stat stones, potions and cards sometimes never being auto used when they stacked onto ones you already had
+Fixed loot box rewards only obeying auto scrap, so stat stones and potions from boxes are now auto used too
+Changed auto scrap to never destroy gear you have worn: once equipped an item is permanently exempt, so moving equipment into your bag to upgrade it is safe
+Changed auto scrap to only act on items you have just picked up, so turning a filter on can never eat what is already in your backpack
+Changed the item type chips in the scrap filter to mean "scrap this type" instead of "keep this type"; your existing selection is converted for you on login
+Added a wiki section explaining the three auto scrap filters and everything they will never touch
+
+# Minimap
+Added NPC icons to the minimap, one per spawned NPC on the floor you are viewing, with shopkeepers marked separately
+
+# Autocast
+Added Health and Mana Tonics to Auto Setup: if you are carrying them, the rotation adds use rules paced to their real cooldown
+
+# Interface
+Changed unique and mythic items to a magenta highlight instead of red, across tooltips, chat links, containers, the bestiary and loot previews
+Added an ornate frame to item tooltips, with a larger item name, group dividers and a rarity tinted border
+Improved readability of effect and flavour text in item tooltips
+Fixed spell descriptions being cut off in the Spell List, which now wraps them properly
+
 = 0.9.9.9.10 | 2026-07-25
 # Combat
 > A pass over how bosses move and how hard everything hits.
