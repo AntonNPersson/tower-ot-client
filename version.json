@@ -1,9 +1,11 @@
 {
-  "version": "0.9.9.9.13",
-  "releaseDate": "2026-07-26",
+  "version": "0.9.9.9.14",
+  "releaseDate": "2026-07-28",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Fixed the curse meter disappearing after the NPC minimap update",
-    "Fixed a server crash on script reloads"
+    "Added the full tower minimap from your first login",
+    "Added three new quests on Floors 3, 5 and 6",
+    "Added quests to the quest log and activity tracker, with progress bars",
+    "Added quest and crafting markers to the minimap"
   ]
 }

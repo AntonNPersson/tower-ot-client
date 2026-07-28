@@ -1,3 +1,44 @@
+= 0.9.9.9.14 | 2026-07-28
+# Quests
+> Quests you could already do were invisible in the quest log. That is fixed, and there are three new ones.
+Added Venom Harvest on Floor 3: draw venom from a LIVING Vine Lurker by wounding it below 30% health and using a vial before it dies, because killing it wastes the venom
+Added Salt and Memory on Floor 5: put the drowned court to rest, then choose between sparing them and taking the crown - the two endings pay differently and you can only ever have one
+Added The Tidewright's Valves on Floor 6: shut three vents in the ruins, each a fifteen second hold you cannot move during while your breath drains
+Added more than a dozen existing quests to the quest log, including Hunting Yeti, Runic Curiosity, Cat Lady's Request, the Scorching Manticore and both Saltmere questlines
+Added the three gathering tutorials to the log: Miner's Challenge, Angler's Challenge and Nature's Lesson
+
+# Activity Tracker
+Added quests to the activity tracker, with live progress bars for anything countable
+Added a filter to show only Journey, quests, bounties or hunt tasks
+Changed row order so Journey leads and quests sit beneath it, and quests take the top slot once your Journey is done
+Fixed quest progress bars never filling in
+Fixed newly accepted quests not showing up until you relogged
+
+# Navigation
+> The floors are large and a lot of content was effectively invisible.
+Added the full tower minimap from your first login, so the map no longer fills in only where you have walked
+Added a marker beside every quest giver's name and on the minimap
+Added crafting icons for Chef Gordon, Alchemist Magnus and Cyndrilth the Crafter
+Added minimap markers for dungeons, raids, instanced quests, floor boss doors, the Abyss entrance, the experience shrines, the item compactor and the ancient traders
+Added a gold outline to fast travel discovery tiles, including the Sweetwood teleporters and the Divinael wing statues
+
+# Crafting
+Changed the three Haven benches to share a single crafting window
+
+# Social
+Added a Looking for Group channel for the whole server
+Added a label on party loot beams naming who found what
+
+# Balance
+Rebalanced several boss trial encounters, including the Massive Crystal Spider and the Trial Hydra
+Changed floor mastery stack thresholds to cumulative values
+Removed the instant kill spell
+
+# General
+Fixed long announcement messages running off the edge of the screen
+Fixed the Gem Cathedral and Shattered Sanctum being listed on the wrong floors in the wiki
+Fixed item rarity and shaders being lost when items were granted by id
+
 = 0.9.9.9.13 | 2026-07-26
 # Interface
 Fixed the curse meter disappearing when the new NPC minimap icons were added, which stopped the meter loading at all
