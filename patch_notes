@@ -1,3 +1,57 @@
+= 0.9.9.9.16 | 2026-07-30
+# Quests
+> Seven new quests, and picking a side in Saltmere is now something a quest can do for you.
+Added Kettil's Index on Floor 1: search the weapon racks scattered through the cyclops camp for Kettil the Spared
+Added Colours on Floor 7: haul down the pirate colours for the Marines, and hold the ground when the crew comes for you
+Added The Contract on Floor 7: take Brack's contract on Sleepbane for the Pirate Crew
+Added Salt and Silence on Floor 8: Halloran is bleeding out and you can help him or rob him, but he is not travelling alone
+Added Broken Keels on Floor 8: break twenty Battle Ships for the Pirate Crew
+Added The Cursing Water on Floor 8: thin forty Depth Mages for the Marines
+Added The Standing Count on Floor 9: cull sixty Marshmellow Men in the western fields of Sweetwood
+Added faction standing as a quest reward, so siding with the Marines or the Pirate Crew now earns enough reputation to start their questlines outright instead of grinding kills for it
+Added the Salt-Sworn and The Wrecker titles, which are mutually exclusive
+Added wiki entries for all seven new quests
+Changed opposed faction quests to pay identically, so doing both leaves you committed to whichever you finished second
+Fixed completed quests refusing to leave the Activity Tracker
+Fixed quest completion being invisible on about twenty quests, which only ever wrote to the console
+Fixed accept prompts that never named the word, so you no longer have to guess "yes"
+Fixed Vesh pointing you east for the Tide-born King when it spawns well to the west
+
+# Outfits
+> Cosmetic stat bonuses have never actually worked. They do now, and there are sixty-two more outfits to earn them on.
+Added 62 reward outfits, each carrying its own pair of stat bonuses
+Fixed outfit, mount, aura, wing, shader and effect stat bonuses never applying at all
+
+# Loot and Cards
+> Several drop rolls used whole numbers against fractional chances, which quietly deleted the rarest outcomes.
+Fixed legendary cards being undroppable for an entire server session, depending on when the server last restarted
+Fixed loot with a listed chance under 1% never dropping at all
+Fixed the loot rate bonus being rounded away, so a 2% card at the 1.3x bonus still paid out at 2%
+Fixed card slot investment in Essence Hunter buying nothing until it crossed a whole percent
+
+# Experience
+Reduced monster experience by 10% across every floor
+Increased experience task and Otherworldly Pylon payouts to cover the cut, so both are now worth more relative to grinding
+Increased the Fortune essence experience multiplier from 10x to 20x
+Fixed the Fortune essence dropping at its 30% testing rate on the live server
+
+# Interface
+Added a Broadcast Log keeping a rolling history of every server broadcast, so announcements you missed while hunting are still there when you get back (Ctrl+Shift+B, rebindable in Options)
+Added a breath gauge on screen while you are underwater
+Fixed the baked tower minimap never shipping with the client, so the full map promised last patch was still filling in as you walked
+
+# Floor 9
+Added a gold outline to the dream-chaos trees, which teleport you elsewhere on the floor when clicked
+Fixed the item compactor and its cake cabinet being absent from the map entirely, so the feature could never be used and its minimap marker pointed at bare ground
+
+# General
+Added a Journey step introducing the Activity Tracker, and reordered the early steps so errands and hunting no longer interleave
+Added Water Spirit spawns along the Thalassa shoreline
+Fixed dungeon exits dropping you on top of whatever was already standing there
+Fixed drowning damage continuing after your breath was restored
+Fixed Chef Praline speaking at a third of everyone else's pace
+Removed the gold outline from fast travel discovery tiles, which are meant to be found rather than advertised
+
 = 0.9.9.9.15 | 2026-07-28
 # Quests
 > Quests you could already do were invisible in the quest log. That is fixed, and there are three new ones.
