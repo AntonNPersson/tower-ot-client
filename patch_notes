@@ -1,3 +1,26 @@
+= 0.9.9.9.17 | 2026-08-01
+# Quests
+> Four new hunts across the top floors, from a statue circuit to a full floor's worth of chase.
+Added Four of the Corrupted on Floor 11: Dorn wants the four statue-bound chaos beasts of Axtralux put down, and the statues share a server-wide cooldown, so it is a circuit, not a farm
+Added Divine Fragments on Floor 12: Verity in Divinael collects fragments that only fall from Angels and Devils, five hundred of them, a trophy chase about as long as the floor itself
+Added Thin the Fleet: Pell wants the giants' Battle Ships broken, and once the server collectively breaks enough, Trionis water opens for boarding permanently
+Added The Wilting in the forest south of Haven: take three samples from the dying trees and tell Groundskeeper Mattis what killed them, because he acts on whatever you say, right or wrong
+Fixed the Floor 9 item compactor never being on the map and its marked trees never glowing
+
+# Combat Balance
+> A damage reduction audit turned up ways to stack far past what was intended. All of them are closed.
+Fixed the same support gem type applying twice when socketed in both slots of one spell, which could stack damage reduction into the hundreds
+Changed gem socketing so the same gem type can no longer be equipped twice on the same spell
+Fixed the Elemental Spellguard earth barrier leaving its damage reduction behind permanently on every cast
+Capped damage reduction at 80% from all sources combined
+Rebalanced Iron Shell from 4-8% to 3-5%, and Frenzy and Divinity from 6-12% to 6-10%
+Fixed Lifesteal gems healing for nearly double their listed values, and their healing now shows as real healing numbers
+Changed the Alpha and Beta kill bonus to pay a flat 2% of a level per kill on every floor
+Fixed Flurry Strike and Weapon Sweep triggering multi-hit and per-swing weapon effects on every tile they touched
+
+# General
+Fixed the breath gauge staying on screen and the drowning drain following you after teleporting out of the water
+
 = 0.9.9.9.16 | 2026-07-30
 # Quests
 > Seven new quests, and picking a side in Saltmere is now something a quest can do for you.

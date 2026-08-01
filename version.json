@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.16",
-  "releaseDate": "2026-07-30",
+  "version": "0.9.9.9.17",
+  "releaseDate": "2026-08-01",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added seven new quests across Floors 1, 7, 8 and 9",
-    "Added 62 reward outfits and fixed cosmetic stat bonuses never applying",
-    "Fixed legendary cards and sub-1% loot being undroppable",
-    "Reduced monster experience by 10% and raised experience task payouts"
+    "Added four new quests across Floors 8, 10, 11 and 12",
+    "Fixed damage reduction stacking exploits and capped it at 80%",
+    "Rebalanced Iron Shell, Frenzy, Divinity and Lifesteal gems",
+    "Changed the Alpha and Beta kill bonus to a flat 2% of a level"
   ]
 }
