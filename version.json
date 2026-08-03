@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.17",
-  "releaseDate": "2026-08-01",
+  "version": "0.9.9.9.18",
+  "releaseDate": "2026-08-03",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added four new quests across Floors 8, 10, 11 and 12",
-    "Fixed damage reduction stacking exploits and capped it at 80%",
-    "Rebalanced Iron Shell, Frenzy, Divinity and Lifesteal gems",
-    "Changed the Alpha and Beta kill bonus to a flat 2% of a level"
+    "Added the Passive Tree (work in progress), replacing the talent system",
+    "Added nine new cards, including the first summon buffs",
+    "Added Verdant Bulwark, Blightpulse Ring and the Sour Ground quest",
+    "Reduced elite/legendary/cursed spawn rates and the base essence drop chance"
   ]
 }

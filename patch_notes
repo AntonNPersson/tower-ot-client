@@ -1,3 +1,57 @@
+= 0.9.9.9.18 | 2026-08-03
+# Passive Tree (Work in Progress)
+> The tree that replaces talents is going live unfinished. The graph, the node values and the respec prices are all still being tuned, so expect them to move around while it settles.
+Added the Passive Tree, an 83 node graph across four arcs - martial, caster, defense and support - replacing the talent system
+Added one tree point per 20 levels from level 20, so a level 500 character logs in with 25 points waiting
+Added spice nodes: each arc offers a pick-one menu of archetype enablers, and the two picks in an arc must differ
+Added seven keystones that unlock at level 200, each carrying a real drawback, and you may only ever have one allocated
+Added five Rites - Endurance, Discipline, Momentum, Affliction and Conjuration - for longer buffs, stronger vocation passives, earlier stack payoffs, longer afflictions and an extra rune charge
+Added a full respec for tower coins on an escalating cost, and a cheap flat fee to re-pick a single spice option
+Removed the talent system: your chosen talent is stripped on your next login, and the tree hands you a point budget from your level instead
+Redesigned the talent window into a fullscreen tree graph with drag to pan, scroll to zoom, and a detail panel showing what every node actually gives
+
+# Cards
+> Nine new cards, including the first that buff your summons directly.
+Added Spellsurge legendary: magic spell criticals refund half a second of every running spell cooldown
+Added Guardian's Vigil legendary: allies you healed in the last 8 seconds cannot die, once per minute each
+Added Warcaller's Litany legendary: healing a target gives it 10% more damage for 6 seconds
+Added barrier epics Spellward, Reinforced Wards and Bulwark Tempo
+Added summon epics Warden's Bond, Ironbound Collar and Bloodforged Leash, which buff your companions directly
+Added card art for all nine new cards
+
+# Unique Items
+Added Verdant Bulwark shield: every heal you deal stacks aura power for 8 seconds, up to four stacks
+Added Blightpulse Ring: your damage over time ticks shave time off every running autocast
+Fixed Blightpulse triggering off multi-hit extra hits instead of real damage over time
+Fixed Barrier Reactor still being called a prismatic necklace
+
+# Quests
+Added Sour Ground on Floor 4: Idris the wellkeeper wants the Corrosive Abominations culled, then the Acidic Colossus that keeps making them, and pays in the Toxic Toad mount
+
+# Balance
+Reduced elite, legendary and cursed monster spawn rates by about 40%
+Reduced the base essence drop chance from 1% to 0.6%; Essence Hunter cards and Essence Magnet gear are untouched and still stack on top
+Rebalanced the promotion dungeon for pre-promotion characters: Blazewarden and Embersaurus hit far softer with less health, and Molten Soul's paralyze no longer lands next to a lethal melee
+Reduced Frostmaw's ice spike damage, leaving his melee and health alone
+Increased Pyramid Guardian and Dune Devourer respawn times
+
+# Spell Effects
+Reworked the visuals on dozens of vocation spells across the Berserker, Brawler, Brute, Duelist, Echo Destroyer, Elementalist, Harmony Keeper, Monk and Pugilist kits
+
+# Interface
+Added a Wiki button to the spell list that opens the article for the selected spell
+Added minimap icons for Otherworldly Pylons, and faction vendors now show a reputation icon instead of a shop icon so you know they will turn you away without standing
+Added status icons for meals, elixirs, stances and coin effects, and group tooltips now name which ones are actually running
+Changed empty gem sockets on toggle spells to read Locked, since toggles never accepted gems
+Improved the new player guide into an arrow trail that leads to the Guardian and clears once you greet them
+Fixed the damage meter filing The Scorcher, Beastbinder, Predator, Lightning Sword, Ring of Winter and Flamebound under generic buckets instead of the item that dealt the damage
+Fixed scrapping an item asking you to confirm twice
+Fixed reward popup text spilling out over the game world
+
+# General
+Fixed several outfits not being claimable on female characters
+Fixed boss rooms not resetting the boss when the last player left
+
 = 0.9.9.9.17 | 2026-08-01
 # Quests
 > Four new hunts across the top floors, from a statue circuit to a full floor's worth of chase.
