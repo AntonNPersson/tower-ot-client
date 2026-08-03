@@ -1,6 +1,6 @@
 = 0.9.9.9.18 | 2026-08-03
 # Passive Tree (Work in Progress)
-> The tree that replaces talents is going live unfinished. The graph, the node values and the respec prices are all still being tuned, so expect them to move around while it settles.
+> The tree that replaces talents is going live unfinished, and it will keep changing. Values are still being tuned, more nodes are coming, the layout will be restructured, and the tree itself is getting a visual upgrade - so expect it to look and play differently over the next patches.
 Added the Passive Tree, an 83 node graph across four arcs - martial, caster, defense and support - replacing the talent system
 Added one tree point per 20 levels from level 20, so a level 500 character logs in with 25 points waiting
 Added spice nodes: each arc offers a pick-one menu of archetype enablers, and the two picks in an arc must differ
