@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.18",
-  "releaseDate": "2026-08-03",
+  "version": "0.9.9.9.19",
+  "releaseDate": "2026-08-10",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added the Passive Tree (work in progress), replacing the talent system",
-    "Added nine new cards, including the first summon buffs",
-    "Added Verdant Bulwark, Blightpulse Ring and the Sour Ground quest",
-    "Reduced elite/legendary/cursed spawn rates and the base essence drop chance"
+    "Rebuilt the Passive Tree around five arcs with six new keystones and a full visual redesign",
+    "Added Flawed Conduit and three mana cards, and deck slot upgrades now reach every card",
+    "Added the Gravity and Void hunting ecology with Nullarch, the Hollow Zenith",
+    "Fixed leech to restore the flat Leech Amount shown on your character sheet"
   ]
 }

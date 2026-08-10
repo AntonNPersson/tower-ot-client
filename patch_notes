@@ -1,3 +1,79 @@
+= 0.9.9.9.19 | 2026-08-10
+# Passive Tree
+> The tree was rebuilt from the ground up before it ever ran on a live server, so this is the shape it keeps from here.
+Rebuilt the tree around five arcs - martial, caster, defense, support, and the new Fortune arc for essence, coins, scrap, gloomgild and elite loot
+Changed the layout from long corridors into clusters, so routes weave instead of running in straight lines
+Added six keystones: Deep Siphon, Midas Toll, Trophy Creed, Bastion Oath, Windborne and Apothecary's Vow
+Redesigned the tree visually: ring-art nodes on a star chart, node search, hover cards, and a route preview before you spend
+Fixed nodes that advertised a multiplier which did nothing
+
+# Cards
+Added Flawed Conduit legendary: leeched mana your pool cannot hold erupts as energy damage when you cast, but mana tonics and potions no longer restore you
+Added Siphon Focus epic: +12% mana leech chance and +600 mana leech amount
+Added Ley Efficiency epic: your spells cost 15% less mana
+Added Discharge epic: +20% spell damage while your mana is at least 90%
+Changed deck slot upgrades to reach every card - a number of them ignored the investment entirely
+Added a "?" panel showing how a card's number becomes real damage, and a Details entry showing that card's value in all four deck slots
+Added card art for four more epic and legendary cards
+
+# Monsters and Bosses
+Added the Gravity and Void hunting ecology: Void Drifter, Collapse Warden, Hollow Ascetic and Singularity Mote
+Added Nullarch, the Hollow Zenith, a Gravity and Void raid boss tuned for a full party
+Added Orrin the Unfallen to the Tower
+Added colour-coded boss voice lines, so a warning reads differently from flavour
+Changed void monsters to carry a purple outline
+Rebalanced The Arbiter: a safe pocket in melee and longer cooldowns
+Fixed the Shattered Sanctum dissolution split silently fizzling
+Fixed the Treeling Patriarch root and spike landing as an outright kill
+Fixed the Golden Rabbit never fleeing, and cut its spawn health
+
+# Loot and Gear
+Added an item that teleports you from a protection zone to an area outside the Tower
+Changed card rarity and unique drop rates to scale with the floor you killed on, so early floors no longer roll endgame-power drops
+Fixed Multi Hit compounding on every reroll, which could drive an upgraded item to absurd target counts, and capped it at 4 targets
+Changed Tower's Arm so Extended Reach also applies to targeted melee spells
+Changed Trial Badges to soulbound, and items now say so when you look at them
+Rebalanced the random stat ranges rolled on gear, with existing items rerolled into the new ranges
+Fixed random stat rerolls pricing off an already-upgraded value instead of the base
+
+# Crafting and Consumables
+Added Ectoplasmic Sushi, a Master craft at Chef Gordon that doubles your elite, legendary and cursed spawn bands and the Golden Rabbit chance for 30 minutes
+Added Gilded Elixir, a Master alchemy craft that doubles epic and legendary card rarity for 30 minutes
+Added Quicksilver Draught, a Master alchemy craft that halves the odds against a unique drop for 30 minutes
+
+# Quests
+Fixed Rook never appearing on Floor 8, which left the pirate vessels quest with nobody to talk to
+Added party kill credit within 30 tiles, and fixed party leaders never being credited for a member's kill
+Fixed Island Defense paying out repeatedly instead of having a real hand-in
+Added a quest log entry, tracker bar and map marker to the Chronos Apprentice quest
+
+# Balance
+Fixed life and mana leech, which now restore exactly the flat Leech Amount on your character sheet instead of a share of the hit, where a high-level proc could return many times the damage that caused it
+Increased damage over time ticks to full spell power parity for vocation and custom spells
+Increased Abyss roster monster health and damage by 30%
+Rebalanced the Abyss economy: Blood Vials cost 300 coins, key bosses drop 2-4, and the tome cost curve is flatter with a far lower cap
+Increased Zorvan's token prices
+Reduced the melee damage reduction passive from 12% to 8%
+Changed Pugilist's Iron Body to a flat 10% damage reduction
+Rebalanced aura and autocast cards onto the spell parity level term
+
+# Interface
+Added permanent weather zones you can see as you move through them
+Added Reputation Vendors, which check your standing and show what it costs before you buy
+Changed the Scrap Filter into a keep-list: name what you want to keep, and everything else is scrapped
+Changed gold, tower coin and scrap auto-deposit to be on by default
+Fixed your own skull not showing, hid the expert PvP hands, and corrected the leech readout to show a flat amount
+
+# General
+Fixed a server crash caused by a heal-and-damage loop between Aura Vitality, Health Battery and on-heal damage effects
+Fixed multi-hit extra hits double-dipping bonuses, re-rolling crits, and reporting as Other in the damage meter
+Fixed Duration Amplification socketing onto spells with no duration, and Harmonic Surge refusing it
+Fixed Blessed Incarnation's description not matching the healing it actually does
+Fixed Resonant Surge losing its area when the first target died
+Fixed Big Game Hunter aborting its own damage on monsters
+Fixed outfit ownership checks for female characters
+Fixed Battle Ship entrances vanishing, or being consumed, when boarding was denied
+
 = 0.9.9.9.18 | 2026-08-03
 # Passive Tree (Work in Progress)
 > The tree that replaces talents is going live unfinished, and it will keep changing. Values are still being tuned, more nodes are coming, the layout will be restructured, and the tree itself is getting a visual upgrade - so expect it to look and play differently over the next patches.
