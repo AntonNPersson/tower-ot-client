@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.19",
-  "releaseDate": "2026-08-10",
+  "version": "0.9.9.9.20",
+  "releaseDate": "2026-09-03",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Rebuilt the Passive Tree around five arcs with six new keystones and a full visual redesign",
-    "Added Flawed Conduit and three mana cards, and deck slot upgrades now reach every card",
-    "Added the Gravity and Void hunting ecology with Nullarch, the Hollow Zenith",
-    "Fixed leech to restore the flat Leech Amount shown on your character sheet"
+    "Added Jewelcrafting, a new profession that sets jewels into your gear",
+    "Added the region outside the Tower, with Rift Pressure on the Null Shard hunt",
+    "Reworked the Abyss: choose your depth, buy key modifiers, and face Nyxaleth at 100",
+    "Added the Shapeshifter family, Milestones, and six support auras"
   ]
 }

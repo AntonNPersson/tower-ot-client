@@ -1,3 +1,138 @@
+= 0.9.9.9.20 | 2026-09-03
+# Jewelcrafting
+> A new profession that turns what you gather into permanent stats on your gear.
+Added Jewelcrafting: craft jewels at the Jeweler's Wheel from one fish, one herb, one ore and Null Shards
+Added Armour Socket Keys and Weapon Socket Keys at The Abyss Merchant, which open a jewel slot on a piece of equipment
+Added the Jeweler's File, which works a set jewel back out of an item without destroying it
+Added jewels for combat stats, maximum health, and Fortune - essence, coins, scrap and elite loot chance
+Added a socket box and jewel rows to the item card, so you can see what is set at a glance
+
+# Outside the Tower
+> The Arbiter's Writ carries you out of the Tower. What is out there is a hunting ground, a stranded trader, and a rift that gets angrier the longer you stand in it.
+Added the region outside the Tower, reached with the Arbiter's Writ
+Added Orrin the Unfallen, the trader stranded out there, selling trial charges, dungeon charges and a rift cosmetics catalog
+Added the void family as its own ecology outside the Tower rather than a Floor 13 spawn
+Added Rift Pressure: a meter that climbs while you hunt out there, raising the danger and your Null Shard yield together
+Added a pressure meter to your HUD
+Added Rift Ballast at The Abyss Merchant, a depth-gated purchase that buys the danger down without touching the yield
+Increased void family experience by 3x
+
+# The Abyss
+> Depth used to be a one-way ratchet: reach a wall you cannot clear and the mode was over for the season. Now you choose the depth you run at.
+Added a depth dial to the portal window - run anything from half your record up to your record, so a wall is no longer the end
+Added key modifiers you can buy onto a key from the portal window, including Corrupt and Ward
+Added Nyxaleth, the depth 100 lord, who cycles storms, orbiting shards and a chase instead of one endless barrage
+Added Nyxaleth's Cinder, a ring whose auto-attacks stack a Cinder hex that makes the target take more fire damage from you
+Added Nyxaleth's Hide, leg armour that multiplies your maximum health
+Changed five flat-stat upgrades into earned mechanics - Bulwark, Momentum, Duelist, Second Wind and Hoarder
+Changed abyss monsters to drop uniques and cards at the rate of the floor you are on
+Changed enemy health and enemy damage into two dials you buy separately
+Added escalating Gauntlet waves that arrive as you clear
+Changed wave encounters to spawn at map anchors instead of a ring around you
+Added abyss keys to the rest of floor 13
+Added card art for the five reworked upgrades
+Reduced key boss Blood Vials from 2-4 down to 1
+Fixed an abyss run continuing after you die
+Fixed Survival auto-grading S
+Fixed the enemy scaling values overflowing their chip, and the damage chip claiming 10% per level when the server does 8%
+
+# Shapeshifters
+> A new legendary family. Take a form, hold it for a few seconds, and cast what the form knows.
+Added Shapeshift: Dragon Knight - a 12 second form with attack power, spell power and three abilities of its own
+Added Shapeshift: Werewolf - a form built on attack speed and life leech, whose abilities swing your own weapon
+Added Feral Focus to the Werewolf in place of Thick Pelt
+Added the form's abilities to your spell list, with the words to cast them
+Fixed the transform cooldown reading wrong on your client, and form abilities cutting off your autocast rotation
+
+# Milestones
+Added Milestones (Alt+P), a permanent track that grades how much of the game you have actually seen across 11 categories
+Added small permanent damage, health and experience bonuses earned from those grades
+
+# Cards and Auras
+Added six support auras - Warcry, Insight, Stoneskin, Swiftness, Enlightenment and Wardlight - so an aura build hands the party stats instead of another heal
+Changed Verdant Bulwark to double the strength of your auras
+Renamed Afterimage to Phantom Strike
+Changed Overwhelm to splash 120 percent of your hit across a 7x7
+Increased companion health, damage and attack speed by 6.7x
+Fixed companions refusing to follow their owner
+Added card crafting: craft a specific card from your collection for Tower Coins and Scrap
+Changed Overflow Reactor to erupt on every mana gain, not only its own leech
+Removed the cap on Flawed Conduit's eruption
+Rebalanced Cadence, Titanforge, Discharge, Critical Explosion, Sanguine Pact, Crown of the Siren and Litany
+Rebalanced barrier consumption and three card buffs
+Added card faces for the six support auras and Salvo
+Fixed aura interval modifiers doing nothing at all
+Fixed long card names clipping instead of shrinking to fit
+Fixed chain card descriptions claiming a split across three enemies including your target
+
+# Uniques
+> The nth-hit family had an enabler and no way to stack itself. It has a spine now.
+Added Volley Line, a crossbow whose every Xth attack fires a three-wide bolt corridor at your target
+Added Crescendo, body armour that turns every Xth burst from any nth-hit effect into a Grand Burst at 2.5x damage and double radius
+Added Deepcarve, a Duelist two-hander whose bleeds deepen the longer you carve
+Added Cantor's Refrain, the on-cast family's first unique
+Added Malefic Maul, Drowned Chorus, Bloodwrought Cleaver, Manasteal and the Aetherwing Mantle
+Changed Spectrestrike Javelin to summon two spectres instead of one
+Changed Explosive Flames to grow with your character instead of sitting at a fixed value
+Reduced unique two-handed weapons to 1.5x stat lines, matching what a one-handed unique build already gets from its legendary off-hand
+Fixed crossbows handing back the ammunition as your weapon, which left every crossbow in the game dead content
+Fixed the unworn ring 2167 showing the wrong name
+
+# Passive Tree
+Added Adrenaline, the reactive family's missing power option
+Added Killing Edge and Antiphon, closing the last two coverage holes
+Added Percussion for the nth-hit family
+Added 8 new spice options, and fixed 3 that shipped doing nothing
+Fixed Deep Reserves never reaching the reactive barrier grants
+
+# Build Power
+> Every archetype was measured against a damage simulator and retuned, so on-hit, crit, echo, autocast and aura builds compete instead of one of them quietly winning.
+Reworked Attack Speed into a pooled haste channel, so haste from different sources adds into one pool instead of multiplying
+Changed added flat damage to join your base damage before percentage bonuses apply, instead of being tacked on at the end
+Reworked Echo Chamber to echo your auto-attacks instead of reflecting damage
+Rebalanced Critical Hit Damage per point, and the crit damage bands on gear
+Changed unique armour to roll Max HP, Critical Damage, Cooldown Reduction or Life Leech in place of Critical Chance, which is now an accessory line
+Reduced the Critical Chance rolled on gear from 2-3 to 1-2, and on unique lines from 4-6 to 2-4
+Rebalanced every on-crit card, and rate-limited on-crit procs so they cannot chain into themselves
+Rebalanced the reflect family instead of leaving it unpriced
+Increased card level scaling, and put cards and spells on the same level term
+Reduced the autocast ceiling: Archmage cap 75 to 65, Obliteration 80 to 65
+Increased every cosmetic power value by 2x
+Rebalanced the gear stats the first retune skipped
+
+# Classes
+Fixed the Brawler fist passive, which every auto-attack percentage now multiplies
+Changed Relentless Focus to multiply your whole strike, and Execution Strike to scale with the fist passive
+Rebalanced Whirlwind Strikes: the splash lands for 80 percent of your swing instead of 120, and the window is 4 seconds instead of 6
+Rebalanced Berserker's Whirlwind back onto the standard level divisor
+Fixed Piercing Frequency's locked strike never dealing its bonus damage
+Rebalanced Echo Chamber's echo chance to 15 and 25 percent
+Fixed Weapon Mastery's axe splash firing off Multi Hit extra hits
+Fixed Brawler login resetting the mushroom counter
+
+# Interface
+Added status icons for item, class, passive and tome buffs, so every timer you are running is visible
+Rebuilt the trade window: sprite rows, wallet chips, an affordability marker and a per-offer detail pane
+Added a custom Abyss Merchant window that shows what your depth has unlocked
+Added an effect blurb under the Craft button, so you know what a recipe does before you make it
+Added cast stats - cooldown, range and area - under every custom spell
+Added a player-facing Glossary to the wiki
+Fixed the damage meter naming every spell, autocast and damage over time tick instead of filing them as Other
+Fixed spell cooldowns disagreeing with the server, and cooldowns that finished early never showing as ready
+Fixed the autocast helper fighting your own rotation
+Fixed reputation standing carrying over after you log out
+
+# General
+Fixed every speed buff cancelling every other one, so a haste rider no longer wipes a running buff
+Fixed a Spell Gem splash loop that could hang combat, and unbroke the Ring of Winter
+Fixed Earth Strike and Ice Explosion always rolling their minimum damage
+Fixed cooldown reduction reading past its 80 percent ceiling
+Fixed a colon in a spell's text corrupting the spell window
+Increased drowning damage the longer you stay under, and fixed a cursed dimension bug
+Added more Battle Ship spawns
+Added card caches you can find and open in the world
+Added new monster spawns and adjusted existing spawn positions
+
 = 0.9.9.9.19 | 2026-08-10
 # Passive Tree
 > The tree was rebuilt from the ground up before it ever ran on a live server, so this is the shape it keeps from here.
