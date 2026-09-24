@@ -1,3 +1,71 @@
+= 0.9.9.9.21 | 2026-09-24
+# The Abyss - Season 1
+> The Abyss no longer uses six hand-built rooms. Every run is a new map, and the season brings a tide that turns the fight around.
+Reworked Abyss maps: every run generates a new prison, desert or volcano map
+Added the Undertow: warned 3x3 zones land across the map, and standing in one lets you sail on land for 10 seconds while monsters gain a boss modifier
+Added boss modifiers: Blink Strike, Scorched Trail, Glacial Pylons, Lightning Rod, Fault Line, Soul Tether, plus Mirror Images and Void Pylons on bosses
+Added six build legendaries: Reaper's Toll, Singularity, Shatterglass Ward, Tidecaller, Void Legion and Fracture
+Added Exploit Weakness, Riptide Stride and Tempered Shell to the Abyss card pool
+Added the Abyss key ring, which holds all your keys in its own slot
+Changed runs to a 15 minute clock: S rank inside the first quarter, A inside the first half
+Added the Abyss Cache: clearing a run opens a 30 second collapse window with a chest and a Leave Now button
+Changed Abyss loot: kills inside a run drop nothing, and the cache pays out everything the run's monsters would have dropped at the end
+Added abyss keys to the cache, so running the Abyss keeps you in keys
+Added the Ivory, Ebony and Blessing charm sets as cache drops at depth 30, 60 and 90, and they work everywhere
+Added the Sealed Vault Key, a very rare drop from floors 11-13 and outside the Tower that opens a depth 100 run whose chest always holds a unique charm
+Increased Abyss monster density to double, with each monster about half as tough per depth
+Fixed the depth dial reopening one step behind after you set a new record
+
+# World Events
+> Events now open on the map near where people are hunting, and the whole floor is told where to go.
+Added World Events: an event opens near hunters on a floor, everyone there gets a card pointing the way, and it shows as a live pin on the minimap
+Added ten event types: Hold the Circle, Breach, The Ritual, The Courier, Cursed Shrine, Soul Harvest, Lockbreaker Vault, Unstable Vein, Creeping Blight and Leviathan's Wake
+Added a short gathering phase with a Begin button so a group can arrive before the fight starts
+Added rewards for everyone who took part, scaled to the floor, with a partial payout on a fail
+Added a World Events HUD that shows how close you are to a live event
+
+# Trials
+Added Safe Path, a fifth trial: watch a path light up, then walk it from memory
+Added an in-trial HUD with the wave, timer and the rank you are on course for
+Changed trial types to never repeat in a day until you have seen them all
+Added a login reminder for unused trial charges and a streak you are about to lose
+Added minimap markers for the Trial Clocks in Haven and Threshold
+Increased experience potions from Chronos to be worth two hours of hunting on a floor
+Removed Blood Vials from Chronos
+Changed kills inside a trial to pay nothing, since the trial's own reward is the payout
+Fixed a refused trial entry spending your charge and locking you out
+Fixed bought Trial Charges being wiped at the daily reset
+Fixed dying or logging out in a trial keeping your streak
+Fixed two players in the puzzle trial stealing each other's levers
+Fixed the puzzle rank counting the flash sequence against you
+Fixed the Trial Hydra's Leap Strike hitting outside its warned area and its whole kit firing at once
+
+# Milestones
+Reworked Milestones into activity counters: dungeons, rifts, abyss runs, bosses, raids, elites, world events, trials, arena, cards, mining, herbalism and fishing
+Changed Milestone rewards to four grades per activity, paying damage, maximum health or maximum mana
+
+# Rifts and Boss Portals
+Added Boss Portals: about one in six cursed portals opens onto one of the floor's field bosses instead, scaled to your group and paying 1.5x loot
+Changed rifts to arrive in waves spread across the arena, so you have to move through it
+
+# Outlaws
+Added the Outlaws, a PvP reputation earned only by killing players inside your own level window
+Added Corvane the Fence, who sells brands, elixirs and charms that only work against players
+
+# Cards
+Changed cards so you can equip, unequip and switch decks during combat
+Changed Crystalline Heart to carry your health fraction across a swap in combat instead of refilling
+
+# Dungeons
+Increased card scraps from difficulty 4 and 5 clears to double
+Fixed the final dungeon boss paying difficulty 1 loot and experience instead of your chosen difficulty
+
+# General
+Added a one-time intro card the first time you try each activity
+Fixed the bestiary drop tooltip being see-through
+Fixed melee, spell and area crits so area spells crit their full damage
+Fixed the skills window showing cooldown reduction above its 80 cap
+
 = 0.9.9.9.20 | 2026-09-03
 # Jewelcrafting
 > A new profession that turns what you gather into permanent stats on your gear.

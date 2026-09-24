@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.20",
-  "releaseDate": "2026-09-03",
+  "version": "0.9.9.9.21",
+  "releaseDate": "2026-09-24",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added Jewelcrafting, a new profession that sets jewels into your gear",
-    "Added the region outside the Tower, with Rift Pressure on the Null Shard hunt",
-    "Reworked the Abyss: choose your depth, buy key modifiers, and face Nyxaleth at 100",
-    "Added the Shapeshifter family, Milestones, and six support auras"
+    "Reworked the Abyss for Season 1: generated maps, the Undertow and an end-of-run cache",
+    "Added World Events: ten event types that open where people hunt",
+    "Added Safe Path, a trial HUD, and trials that never repeat in a day",
+    "Reworked Milestones into activity counters"
   ]
 }
