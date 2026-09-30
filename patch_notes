@@ -55,6 +55,63 @@ Fixed large tower coin withdrawals into a full backpack destroying the coins
 Fixed floors that share a stat in Floor Mastery replacing each other's bonus instead of adding up
 Fixed a rare crash when a monster died shortly after certain boss mechanics fired
 
+= 0.9.9.9.22 | 2026-09-30
+# Combat Feel
+> Hits, kills and danger now read at a glance.
+Added a hit flash: creatures flash white when hit, brighter on your crits, red on you when you take damage and green on heals
+Added a burst on the tile where an elite, legendary, cursed monster or field boss dies, coloured by its tier
+Added a damage trail on monster health bars that lingers briefly after each hit
+Added a red screen-edge pulse when you drop below 25% health
+Added options to turn off the hit flash and the low-health pulse
+
+# Boss Bar
+Reworked the boss bar: a slim bar with a skull, quarter ticks and a damage trail that drains after each hit
+Changed the boss bar to turn red below 25% health
+Changed the boss name to an outlined font so it stays readable over water
+
+# Interface
+Added movable HUDs: drag the boss bar, Curse Meter, Pylon, World Event and Trials HUDs anywhere, and they stack neatly when several are up
+Added a HUD lock and a HUD reset in Options, and double-click any HUD to reset it
+Added a reward card that slides in when you finish a bounty, claim a Journey objective or unlock an achievement
+Reworked the Bounties window into wanted posters with the target, progress and rewards
+Reworked the Card Collection filters into search, owned and missing chips with a rarity strip
+Reworked the Spell List and Custom Spells windows with a detail card, level pips and upgrade sockets
+Added a podium for the top three to the Leaderboard, and a line showing your own rank
+Reworked the Options window so categories and sub-pages no longer overlap
+Improved the Analyzer loot grid: bigger slots, rarest first, framed in their rarity colour
+Improved bestiary drops with colour by drop chance, and uniques and cosmetics marked
+Improved autocast rules with an on/off switch and a plain-English summary
+Improved the Scrap Filter with piece icons and coloured rarity chips
+Added an experience ring around your guild crest
+Added countdowns for the Treasure Chest and the Trap Dungeon in the Events window
+
+# Activity Tracker
+Changed the Activity Tracker to sort by floor: Journey first, then what is on your floor, then what can be done anywhere, then other floors nearest first
+Added a floor tag to each activity, green when it is on your floor
+Fixed the floor indicator showing the floor another character was last on after a relog
+
+# Fortune Slot
+Reworked the Fortune Slot: reels really spin and stop one by one, the lever swings, and the lights react to wins
+Added a mount showcase, the odds and recent wins beside the machine
+Fixed a failed roll leaving the reels spinning and the buttons locked until relog
+
+# Trials
+Added the Mystical Hourglass at Chronos for 110 Trial Badges: your next completed Abyss run is graded as if it were 90 seconds faster
+Fixed big trial payouts arriving as only 100 badges
+Changed Trial Badges so only the character who earned them can spend them
+
+# Treasure Chest
+Added a countdown bar while you claim the Treasure Chest
+
+# Economy
+Capped the Gloomgild purse at 500
+Changed the Roshamuul fee to charge every party member who gets experience from a kill, not only the killer
+Fixed large tower coin withdrawals into a full backpack destroying the coins
+
+# General
+Fixed floors that share a stat in Floor Mastery replacing each other's bonus instead of adding up
+Fixed a rare crash when a monster died shortly after certain boss mechanics fired
+
 = 0.9.9.9.21 | 2026-09-24
 # The Abyss - Season 1
 > The Abyss no longer uses six hand-built rooms. Every run is a new map, and the season brings a tide that turns the fight around.
