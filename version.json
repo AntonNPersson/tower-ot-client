@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.21",
-  "releaseDate": "2026-09-24",
+  "version": "0.9.9.9.22",
+  "releaseDate": "2026-09-30",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Reworked the Abyss for Season 1: generated maps, the Undertow and an end-of-run cache",
-    "Added World Events: ten event types that open where people hunt",
-    "Added Safe Path, a trial HUD, and trials that never repeat in a day",
-    "Reworked Milestones into activity counters"
+    "Added combat feel: hit flash, kill bursts and a low-health pulse",
+    "Reworked the boss bar and made HUDs movable",
+    "Reworked Bounties, Card Collection, Spell List, Leaderboard and the Fortune Slot",
+    "Changed the Activity Tracker to sort by your floor"
   ]
 }
