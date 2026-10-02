@@ -1,3 +1,61 @@
+= 0.9.9.9.23 | 2026-10-02
+# Tonic Cards
+> Tonics are now a build of their own.
+Added 16 tonic cards that trigger when you drink a tonic or when a tonic heals you: Distiller's Draught, Last Gulp, Volatile Tincture, Crossbrew, Transmuter's Flask, Brewer's Rhythm, Alchemical Ward, Fizzing Draught, Tar Flask, Effervescence, Thornbrew, Healing Mist and Purging Draught
+Added Crossbrew, Healing Mist and Alchemical Ward to Chronos; Transmuter's Flask drops from the Primordial Ooze, Effervescence from the Tide-born King and Thornbrew from Hanuman
+Added the Second Draught spice option: a chance for your tonic effects to trigger twice
+Fixed Apothecary's Vow: drinking a new tonic no longer cancels the healing still owed from the last one
+
+# Spell Gems
+Added five gems: Executioner, Serrated Edge, Lingering Ground, Gravity Well and Parting Shot
+Reworked the Spell Gems window (Alt+G) into one window: your spells and sockets on the left, your gems on the right; click a gem, then a green socket
+Changed loose gems to live in a gem pouch instead of your backpack
+Fixed a gem being lost when it could not fit in your backpack
+
+# Passive Tree
+Added an Active Effects panel that lists everything your tree gives you
+Buffed Windborne: it also raises your movement speed cap by 20%
+Buffed Unbroken Rhythm: it also raises your cooldown reduction cap by 1%
+Fixed a node sitting on a connecting line not linking to both ends
+
+# Abyss
+Added unique effects to the four vault charms: Conductance, Crowdbreaker, Shared Grace and The Tower Answers
+
+# Hunt Tasks
+Added a rest after claiming a hunt task: that monster can't be taken again for 1, 3 or 6 hours by difficulty, shorter on floors with few monsters
+Added opening the hunt task window from the Activity Tracker while you carry a Task Stone
+
+# World Events
+Changed events with rival factions on Floor 13: the first player to arrive decides which faction comes through
+Fixed world events spawning next to players inside instances
+Fixed Cursed Shrine braziers staying on the map after the event ends
+
+# Interface
+Reworked damage numbers: one number per hit with element icons, compact values, and separate colours for your hits, hits on you and other players' hits
+Added a death recap: the killing blow, your top damage sources and your last hits and heals
+Added level-up effects that announce what you unlocked, with a Quick Settings toggle to hide them
+Added server-wide announcements for the first player to reach each floor and the first copy of each unique looted
+Added badges on the Character menu when you have passive points, stat stones or spell upgrade points to spend
+Added a Fortune category to the Skills window: elite spawn chance, essence chances and gain bonuses
+Added hover cards for item names in loot messages
+Added "Use All with..." on upgrade tokens to spend a whole stack on one item at once
+Added a Replace all / Add missing choice to autocast Auto Setup
+Added a VANQUISHED card when a floor boss dies
+Added a tooltip on the Stats window's + button explaining why a stone can't be spent
+Reworked the Trials grade card, the in-trial HUD, the event countdown chips and the item tooltip
+
+# General
+Fixed health and mana dropping after a relog
+Fixed boss adds spawning golden rabbits, elites, cursed portals and essences
+Fixed stackable loot starting a new stack instead of joining one in another bag
+Fixed small brooks being walkable
+Fixed reputation vendors not counting currency in your stash
+Fixed The Curse-Eater looking like a flag
+Fixed the Floor 13 waypoint landing one tile off
+Fixed long click-walks stopping partway
+Fixed the DPS meter breaking on very large damage totals
+Fixed the card unlock popup when the card list hadn't loaded yet
+
 = 0.9.9.9.22 | 2026-09-30
 # Combat Feel
 > Hits, kills and danger now read at a glance.

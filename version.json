@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.22",
-  "releaseDate": "2026-09-30",
+  "version": "0.9.9.9.23",
+  "releaseDate": "2026-10-02",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added combat feel: hit flash, kill bursts and a low-health pulse",
-    "Reworked the boss bar and made HUDs movable",
-    "Reworked Bounties, Card Collection, Spell List, Leaderboard and the Fortune Slot",
-    "Changed the Activity Tracker to sort by your floor"
+    "Added 16 tonic cards",
+    "Reworked Spell Gems into one window and added five gems",
+    "Reworked damage numbers and added a death recap",
+    "Added hunt task rests and Character menu badges"
   ]
 }
