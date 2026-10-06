@@ -1,3 +1,42 @@
+= 0.9.9.9.24 | 2026-10-06
+# Duels and the Colosseum
+> Fight other players on your own terms: for glory, for rating or for coins.
+Added duels: right-click a player in a protection zone to challenge them, then fight in a freshly built arena after a countdown
+Added party duels: party leaders can pit their whole party against another party
+Added staked duels: both players put up items and Tower Coins, and the winner takes it all
+Added a fight recap after every duel with damage, healing and biggest hit, plus season and lifetime duel records
+Added the Colosseum: ranked 1v1 and ranked 3v3 for parties of 3, matched by rating and level, with a ready check and placement matches
+Added Colosseum ladders to the Leaderboard, Colosseum achievements, and season titles for the top of either ladder
+Added options to ignore duel requests and party invites
+
+# Summoners
+> Every companion now has a move of its own.
+Reworked summon cards: pets now benefit from your all-damage bonuses and attack speed, and they can crit with your crit chance
+Added signature abilities: the Wolf bites harder for every other summon you have out, the Ape slams and slows nearby foes, the Demon burns its target and everything next to it, the Angel heals you, and the Revenant reaps low-health foes and heals you
+
+# Passive Tree
+Added Plan mode: plot a path through the tree and allocate it all at once
+Reworked the tree's look: each node's frame shows what kind it is and a symbol shows what it gives
+Improved the tree's feel: smooth zoom, highlighted connections on hover, and a glow on nodes you can take
+
+# World Events
+Added unique looks, names and corpses for every world event monster
+Fixed world events spawning inside dungeons, boss rooms and other closed areas
+
+# Store
+Added an Owned badge to outfits and mounts you already have, which can no longer be bought twice
+Reduced Basic Stat Stone payouts from the Fortune Slot
+
+# General
+Added stamina regeneration while attacking a Training Dummy in the Training Area
+Added a Cosmetic Bonuses list to the Outfit window with the stats from all your cosmetics
+Added smoother window, tab and progress bar transitions, and feedback when you upgrade, craft or buy (turned off by Reduce Visual FX)
+Changed damage numbers to a crisper size
+Fixed swapping gear from a full backpack onto an equipped item
+Fixed PvP honor farming: kills between players on the same connection or account pay nothing, and the same victim only pays twice per 20 hours
+Fixed the Curse Meter staying on screen after leaving a cursed portal by death, logout or timeout
+Removed the hover tooltips on the Character menu badges
+
 = 0.9.9.9.23 | 2026-10-02
 # Tonic Cards
 > Tonics are now a build of their own.

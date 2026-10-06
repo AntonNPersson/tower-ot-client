@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.23",
-  "releaseDate": "2026-10-02",
+  "version": "0.9.9.9.24",
+  "releaseDate": "2026-10-06",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added 16 tonic cards",
-    "Reworked Spell Gems into one window and added five gems",
-    "Reworked damage numbers and added a death recap",
-    "Added hunt task rests and Character menu badges"
+    "Added duels, party duels and staked duels",
+    "Added the Colosseum: ranked 1v1 and 3v3",
+    "Reworked summons with signature abilities",
+    "Added Plan mode and new art to the Passive Tree"
   ]
 }
