@@ -1,3 +1,83 @@
+= 0.9.9.9.25 | 2026-10-11
+# The Crucible
+> Your guild's weekly boss rush against echoes of the floor guardians. Closed beta.
+Added the Crucible: a weekly run for 3 to 10 guildmates, started by a Vice-Leader from the new Circle tab in the guild window
+Added the guild project behind it: members deposit materials and Guardian Relics (dropped by the floor guardians) into a shared stockpile, then Vice-Leaders spend it to seal each echo into the run
+Added the first two echo fights: the echo of Embermech tests your tank, the echo of Dune-sworn God tests your healers; the other echoes are stand-ins for now
+Added a briefing card before every echo, an enrage bar on the boss bar, and a 3-2-1 before the fight starts
+Added echo aggro: a player with at least 50% damage reduction holds the echo by taunting it; with nobody holding it, it hunts the farthest of you
+Added stasis: a fallen player turns to sand, is revived when the echo dies, and is still paid for the kill
+Added Crucible rewards: every member is paid on every kill (Ascendant Shards, Card Scraps, Null Shards, and a chance at Master Tokens, Orbs of Divinity and Modification Gems), and each echo can drop its own unique
+Added seven Crucible uniques: Sundering Core, Vestment of Forgotten Prayers, Lamp of the Shared Wish, Bloodhowler's Pelt, Unmaker's Crown, Twin Verdict and Aegis of Ancient Strength
+
+# Warfront
+> A huge boss behind a gate that opens every 10 to 12 hours. The arena is a PvP zone.
+Added the Warfront: a boss gate on floors 3, 6, 9 and 12, announced 15 minutes ahead to the players of that floor with a minimap marker and a countdown
+Added the Warfront bosses: Verdant Warlord, Maelstrom Sovereign, Sugar Tyrant and Seraph of Ruin
+Added Warlord's Seals, a guaranteed equipment upgrade, for the five players who deal the most damage; everyone who hits the boss is paid
+
+# Tower Exchange
+Added the Tower Exchange (Alt+X): buy and sell gear, materials, cards, gems, keys and scrolls with every player, with filters for stats and unique effects
+Added Wanted orders, a ledger of your listings and trades, and watched searches
+Added trading in gold, Tower Coins or store points; buying and listing need a protection zone, and gold sales pay a 4% tax
+
+# Guilds
+Added the Guild Finder: put your guild on the recruitment board or browse guilds that are recruiting
+Added weekly guild contracts; Boss Breakers counts every guildmate who fought the boss, Crucible echoes included
+Added the Guild Bank: items are stored exactly as they are and show their item card on hover; extra bank tabs are sold in the store
+Added four guild skills and the Rally Banner, an experience boost for every guildmate
+Added leadership actions, a message of the day editor and staff tags in chat
+Changed guild experience: every member's experience counts, up to a daily cap
+Fixed creating or joining a guild while no member was online needing a relog
+Fixed the Guild Chat button, and kicked members keeping the guild channel
+Fixed Experience Mastery paying twice
+
+# Bosses
+Changed bosses so they can no longer be kited: they ignore slows, run faster the further you get away, and their melee slow refreshes with every hit and survives haste
+Added big countdown digits to every boss countdown
+Added chains to link mechanics: Soul Tether, Void Pylons and the Regrowing Head now show a chain you can break
+Fixed the Dune-sworn God and the Malignant Djinn staying enraged after a wipe
+Fixed the Dune-sworn God shouting the Malignant Djinn's enrage line
+
+# Cards and Progression
+Added card sources: right-click a card in the collection to see where to get it
+Added automatic salvage of duplicate cards into Card Scraps, set from the Scrap Filter
+Reworked the Journey into The Climber's Path chapters
+Added Ambrose Vell, a tailor who takes outfit commissions
+Added the Profession Multitool to the store: one tool for fishing, herbalism, digging and mining, with 10% more fishing and herbalism skill
+Added !mail to get a parcel with a pre-written label
+
+# Items and Loot
+Changed unique announcements: the whole server only hears about the first copy of each unique
+Fixed gold find and Gloomgild find giving less than the Fortune window showed, and the Gloomgild chance on kills
+Fixed abyss key modifiers: more experience, more abyss coins and gold drops now pay, and the reduced ones reduce
+Fixed personal loot and other kill rewards sometimes paying twice for one kill
+Fixed "more" damage bonuses losing value on builds with big auto or spell damage pools
+Fixed Nyxaleth's Hide: it applies on equip and never stacks on itself
+Fixed uniques dropped by bosses missing their tier's base stats
+Fixed charm texts to match what the charms actually do
+
+# Vocations
+Changed the Resonator, Echo Destroyer and Harmony Keeper: every spell now scales with Distance Fighting
+Changed Echo of Unity to heal like the other heals, from the caster's level and Distance Fighting, with its max resonance bonus on every tick
+Increased Brute health per level to 28 (was 20)
+Added a Reset Upgrades button for a single spell in the Custom Spells window
+Fixed summons not joining a fight already in progress, spawning on blocked tiles, and ignoring PvP settings
+Fixed Mycelium Network growing on every mushroom heal; party pickups now grow it
+
+# Interface
+Reworked item slots into a flat look; equipped gear shows its +N upgrade
+Added Experience Rate and Gold Find rows to the Fortune section of the skills window
+Changed the Battle Result window to stay on top, and hovering a reward shows its item card
+Reworked the Inspect window's header with a hero band and card art
+Fixed renamed monsters disappearing from the battle list
+Fixed message boxes cutting off their buttons or title
+
+# General
+Fixed damage over time keeping you in combat with monsters
+Fixed puzzle objects that could be moved
+Fixed some spells and boss abilities playing no effect
+
 = 0.9.9.9.24 | 2026-10-06
 # Duels and the Colosseum
 > Fight other players on your own terms: for glory, for rating or for coins.
