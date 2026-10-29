@@ -1,3 +1,112 @@
+= 0.9.9.9.26 | 2026-10-29
+# Abyss
+> Take your party into the Abyss: up to four players, each paid as if they ran it solo.
+Added Abyss party runs for up to 4 players: the leader's key and modifiers apply to everyone, and every member gets their own completion cache
+Added the party to the Abyss portal window: the depths your whole party can run, the headcount, and what it does to monsters and rewards
+Added party scaling to the Abyss and the ladder dungeons: monsters gain health for each player and hit their current target harder, and every member earns 20% more rewards per extra player; keys are never multiplied
+Added mythic key modifiers: five very rare modifiers found only on dropped keys - Twin Cache, Maelstrom, Overflowing Deck, Possessed Horde and Abyssal Pressure
+
+# Passive Tree
+Reworked the five Rites into Rite sockets: each one opens a menu of three options made for your promoted vocation, and you can take up to two
+Changed Conjuration to sit in the Fortune menu
+Removed the Momentum option
+
+# Tempering
+> A new window for improving your gear, worn or carried.
+Added Tempering (Alt+U): pick a worn slot or a piece of gear from your bags and see every upgrade token, orb and scroll you can use on it, with the result shown before you confirm
+Added tempering for equipped gear, without taking it off
+Changed right-clicking an upgrade token, orb or scroll to open it in Tempering
+Added the Orb of Corruption, a very rare drop on every floor and from Abyss caches: used on gear with no upgrades it either fails or raises one random stat line to 125% of its highest roll; Orbs of Exalt and Refinement refuse a corrupted item
+
+# The Crucible
+Added the rest of the echo fights: the Malignant Djinn Maiden, Hrothgar the Bloodhowler, the Lord of Chaos, and the Judges (Seraphim and the Arbiter); every echo now has its own fight
+Added Zolthar, the host, as the last fight of every Circle: he runs a trial from each sealed echo in turn
+Added guardian modifiers: from Circle 2 every echo carries one more each Circle - Permafrost, Ink of the Depths, Cannonade, Tentacles, Sugar Rush and Banishment
+Added the Crucible season ladder: guilds rank by their deepest kill, then by time; members of the top 10 guilds with at least 3 runs get a season title, the top 3 also a cosmetic, and the champion a unique one
+Added a Crucible board to the Leaderboard, and your guild's ladder place to the guild window
+Added a stagger bar to the boss bar
+
+# Blackwater and Navalis
+> Small secrets on Floors 7 and 8 for players who explore.
+Added The Parrot's Password: a parrot in Blackwater squawks the day's password; say it at the right door to get into a hidden den with a daily stash
+Added the Shell Game: Nim runs one game a day in a Blackwater tavern; each win grows your streak for a longer shuffle and a bigger prize
+Added Message in a Bottle: now and then a bottle washes up on Navalis; whoever opens it first gets a treasure map whose riddle leads to a buried stash
+
+# Uniques and Cards
+Added Musician's Bow, for Harmony Keepers: auto-attacks heal the most wounded party member nearby
+Added Wellspring Staff: auto-attacks restore mana and build up spell damage
+Added Conductor's Staff: every spell you cast counts as an auto-attack for your every-Nth-hit effects
+Added Drumbeat Claw: every few attacks your auras pulse an extra time
+Added Kindling Claw, dropped only by Vice-Captain Killia: critical hits build a streak of critical damage
+Added Scythe of the Reaper: kills summon spectral axes that whirl around you
+Added Crippling Mace: more damage against slowed, stunned or hexed enemies
+Added Cataclysm Codex, an off-hand from the Siren Mage: your spells can explode for part of the hit around the target
+Added the Devour legendary card: stronger on-kill effects, and every 8th kill fires them again at the farthest enemies
+Added the Corpse Burst epic card
+Reworked Malefic Maul into Malefic Echo: the first hexed enemy your spell hits echoes part of the hit to its neighbours
+Changed Deepcarve: its bleeds now stack independently
+Changed Flamebound Strikes: cooldown reduction no longer shortens its cooldown
+Changed Morvreth's Crown: its drain per enemy is capped by your level
+Buffed Crown of the Siren, Flamewalker Boots, Sacred Tree Amulet, Earthshaker, Titanic Might and Chaos Dice
+Buffed Deep Reserves: it now boosts max-health payouts
+Removed the Transmuter's Flask penalty on health tonics
+Reduced Overload to at most two extra echoes
+Reduced Aura Tyrant and Verdant Bulwark
+Reduced leech on Flawed Conduit, Sanguine Vow and Deep Siphon
+Increased Sanguine Pact's health payback and Spellsurge's refund
+
+# Vocations
+Added Cure Disease (exana pox) for every vocation from level 8: removes damage over time effects, but only while nothing else is hurting you
+Changed Brawler: attack power now boosts fist auto-attacks
+Buffed Whirlwind Strikes: it lasts 6 seconds and splashes double the finished hit
+Changed Overcharge to empower every hit of the cast, not just the first
+Increased Elemental Burst damage
+Changed Lacerate: every enemy in a 5x5 around the target takes the hit too
+Increased Precision Strike's bleed
+Increased Arcane Conduit's crit chance and Sacred Flame's spell power
+Reduced Spell Echo's cooldown to 2 seconds
+Reduced Echo Chamber's extra auto-attack chance and Echo Destroyer's distance damage
+Changed Surge to a stronger single-target empowerment instead of an area hit
+Reduced Spectrestrike to one mirror per strike
+Reduced Thorn Volley, Nature's Wrath and Threatening Roots damage
+Changed Nature's Wrath: its mushroom healing bonus now multiplies your damage
+Reduced Overwhelm's splash back to 5x5
+Changed Shapeshift to need an enemy within 3 tiles
+Changed Weapon Throw: it no longer takes the Multiple Projectiles gem
+Fixed Harmony Keepers being stuck below magic level 110
+Fixed Mana Shield never breaking
+Fixed Sacred Flame, Nature's Harmony and Resonant Boost refusing to cast after a logout or death
+Fixed Spore Burst never feeding Nature's Wrath, and mushrooms feeding the Nature's Wrath of whoever placed them instead of whoever ate them
+Fixed Elemental Lock and Combat Expertise taking away more than they gave
+Fixed Elemental Strike's splash landing off-centre
+Fixed recasting Resonant Surge, Echo Chamber or Relentless Focus ending the new one early
+Fixed phantom strikes skipping on-hit effects
+Fixed spell gems on area and delayed hits
+Fixed Crushing Blow not taking Expanded Blast
+Fixed Temporal Barrage ignoring spell power
+Fixed errors that stopped Brute's knockback and Flamebound Strikes effects
+
+# Store
+Increased the price of store mounts and outfits to 54 points
+Added 6 mounts to the store: Flamesteed, Winter King, Magic Carpet, Ebony Tiger, Snowy Owl and Mystic Raven
+Added 6 outfits to the store: Champion, Death Herald, Lupine Warden, Sea Dog, Storm Oracle and Frostplate Knight
+Removed the Singeing Steed from the store: Solrath drops it
+Fixed the Scorpion King and Giant Beaver mounts needing premium to ride
+
+# Interface
+Reworked the login screen and character selection
+Changed bags and trade windows to reopen after login, and windows to reopen where you left them
+Added categories to the Tower Exchange's commodity list
+Updated window and card colours
+
+# General
+Changed experience: bonuses and the low-stamina penalty now multiply your level's experience rate instead of adding to it
+Fixed floor boss kills not taking summoners and party healers up a floor
+Fixed bonuses that dropped to zero (passive tree, jewels, milestones) staying until relog, and a stat reset keeping its health and mana
+Fixed Hrothgar's totem buffs staying after the totems died
+Fixed Wardlight and Soul Ward clashing with other barriers
+Fixed the damage meter lumping item damage into one "Card" row
+
 = 0.9.9.9.25 | 2026-10-11
 # The Crucible
 > Your guild's weekly boss rush against echoes of the floor guardians. Closed beta.
