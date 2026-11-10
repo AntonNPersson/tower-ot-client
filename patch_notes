@@ -1,3 +1,59 @@
+= 0.9.9.9.27 | 2026-11-10
+# Curse Tide
+> Every 3 hours the Cursed Dimension spills into the tower, and everyone on Floor 2 and up can answer it.
+Added the Curse Tide: every 3 hours one of the old pylon crystals cracks open for 15 minutes; join with the Join button on the announcement or by using the crystal
+Added Curse Tide islands: you fight your own floor's monsters on a lava-sea island with the climbers of your floor, and parties always land together
+Added surges: the island's pockets surge one after another, every kill tops up a shared clock, and when it runs dry the surge pays experience and scrap to everyone who fought
+Added corrupted surges: use a Pylon Corrupter on a pocket's glowing heart while it gathers for a harder surge that pays double or triple and can drop a Curse Tide card
+Added four epic Curse Tide cards: Ember Wake, Riptide, Tidewall and Bloodtide
+Added a Curse Tide HUD with the time left and the next surge
+Removed the hourly Otherworldly Pylon event: the Curse Tide replaces it, and the pylon achievements now count Curse Tide surges
+
+# Cursed Dimension
+Added Rift Afflictions: every run rolls one - Bursting Dead, Bound Pairs, Collapsing Rift, The Stalker or Rift Shrines - shown with its rule on the Curse Meter
+Added the Rift Pilferer: now and then a goblin with a sack turns up in the first wave; corner it and strike it 8 times for scrap and a loot box before it slips away
+Added elites to the second wave
+Added an end-of-run card with your time, kills, experience and curse charge
+Changed the Curse Meter to count the wave and the monsters left instead of a line per kill
+
+# Cosmetics Collection
+> Every cosmetic in the game in one window, and where to find it.
+Added the Cosmetics window (Alt+K): every mount, outfit, aura, wing and effect, which ones you own, and a hint for where to get the rest
+Added collection rewards: every 15 cosmetics you collect pays a reward - outlines, auras and wings
+Added outlines, a new cosmetic: a thin coloured ring around your character with two small stat bonuses
+Added a mount for reaching Exalted with each of the eight factions; characters already Exalted get it at their next login
+Added a mount for reaching the top grade of each milestone; characters already there get it at their next login
+
+# Hidden in the Tower
+> Some things on Floors 2 to 13 are not on the map. Keep your eyes open.
+Added the Traveller: a hooded stranger who makes camp somewhere on Floors 2-13 for a while, then moves on; find him for a gift, a story and a card
+Added the Will-o'-Wisp: a cold light that flees when you come near; corner it for a small daily reward
+Added The Ones Who Didn't Come Back: the remains of 47 lost climbers lie across Floors 2-13; read their last pages, and find them all for a mount
+
+# Interface
+Added each spell's description and socketed gems to its tooltip in Spell Gems (Alt+G)
+Reworked the Tempering window: a bigger bag strip, clearer results, and Try max asks before it spends
+Reworked the Character Stats window: a bar per stat, a preview of what the next stones add, and the reset cost before you confirm
+Added a filter menu to the Tracker
+Changed the Tracker to show a quest's next step, and who to return to once its objective is done
+Changed quest messages to show in the centre of the screen and in the Server Log
+Added tooltips to the condition icons on the status bar
+Added Craft to the right-click menu in the Card Collection
+Fixed the Tempering window not updating when you carry a lot of gear
+Fixed Ctrl+W, Ctrl+S and Ctrl+D opening windows while moving with WASD
+
+# General
+Increased monster density in hunting areas across the tower
+Changed announcements to reach only the players they matter to: Tower Guardians, weather, chests, Destiny, seasonal places and Archive chapters show on that floor or nearby, Crucible firsts only to the guild
+Changed Bloodstorm: the blood monster count only shows inside the storm
+Removed five Floor 5 hunt tasks whose monsters never appear: Putrid Essence, Spring Sentinel, Woodland Warden, Hellbark Youngling and Scuttling Horror; an active one is cleared at login
+Fixed area spells rolling life and mana leech once for every monster hit instead of once per cast
+Fixed boss and Abyss Cache cards you already own landing in your backpack: they now follow your duplicate filter (scrap or depot)
+Fixed being disconnected when arriving next to a very large pack of monsters
+Fixed the Jungle Guardian Skull Token count staying at 0/5
+Fixed Island Defense skipping its cave stage
+Fixed staff characters taking places in the seasonal achievement races
+
 = 0.9.9.9.26 | 2026-10-29
 # Abyss
 > Take your party into the Abyss: up to four players, each paid as if they ran it solo.

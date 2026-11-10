@@ -1,11 +1,11 @@
 {
-  "version": "0.9.9.9.26",
-  "releaseDate": "2026-10-29",
+  "version": "0.9.9.9.27",
+  "releaseDate": "2026-11-10",
   "downloadUrl": "https://github.com/AntonNPersson/tower-ot-client/releases/download/client/TowerOT.zip",
   "changeLog": [
-    "Added Abyss party runs for up to 4 players",
-    "Reworked the Rites into vocation Rite sockets",
-    "Added Tempering (Alt+U) and the Orb of Corruption",
-    "Added every Crucible echo, Zolthar and the season ladder"
+    "Added the Curse Tide, a horde event every 3 hours",
+    "Added the Cosmetics Collection (Alt+K) and outlines",
+    "Added Rift Afflictions and the Rift Pilferer to the Cursed Dimension",
+    "Added the Traveller, the Will-o'-Wisp and 47 lost climbers to find"
   ]
 }
